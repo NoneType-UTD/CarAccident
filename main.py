@@ -30,25 +30,19 @@ if __name__ == '__main__':
     #         doc = nlp(sentence)
     #         pprint([(x.text, x.label_) for x in doc.ents])
 
-    with open('package.json', 'r') as f:
+    with open('ArticleIds.json', 'r') as f:
         ids = json.load(f)
     i = 0
     for _id in ids:
         response = requests.get('http://eventdata.utdallas.edu/api/article?doc_id=' + _id['_id'])
         test = response.json()['data']
-        article = ''
         for sentence in test:
-            article += sentence['sentence'] + '\n'
-            # sentence = preprocess(sentence['sentence'])
-            # pattern = 'NP: {<DT>?<JJ>*<NN>}'
-            # cp = nltk.RegexpParser(pattern)
-            # result = cp.parse(sentence)
-            # print(result)
-            #
-            # # iob_tagged = tree2conlltags(cs)
-            # # pprint(iob_tagged)
-        with open(f'article{i+1}.txt', 'w', encoding='utf8') as f:
-            f.write(article)
-        print(f'Article Ready{_id}')
-        i += 1
+            sentence = preprocess(sentence['sentence'])
+            pattern = 'NP: {<DT>?<JJ>*<NN>}'
+            cp = nltk.RegexpParser(pattern)
+            result = cp.parse(sentence)
+            print(result)
+
+            # iob_tagged = tree2conlltags(cs)
+            # pprint(iob_tagged)
 
