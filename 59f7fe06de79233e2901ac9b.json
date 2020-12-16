@@ -1,0 +1,26 @@
+[
+    {
+        "ISLAMABAD": [
+            "NN",
+            "NNP"
+        ]
+    },
+    {
+        "Javed": [
+            "VBD",
+            "NNP"
+        ]
+    },
+    {
+        "anti-graft": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "individual": [
+            "NN",
+            "JJ"
+        ]
+    }
+]

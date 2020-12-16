@@ -1,0 +1,68 @@
+[
+    {
+        "more-in": [
+            "NN",
+            "JJR"
+        ]
+    },
+    {
+        "premises": [
+            "VBZ",
+            "NNS"
+        ]
+    },
+    {
+        "Closer": [
+            "RBR",
+            "JJR"
+        ]
+    },
+    {
+        "cost": [
+            "NN",
+            "VBD"
+        ]
+    },
+    {
+        "cutting": [
+            "NN",
+            "VBG"
+        ]
+    },
+    {
+        "crore": [
+            "SYM",
+            "NN"
+        ]
+    },
+    {
+        "civic": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "concerned": [
+            "VBN",
+            "JJ"
+        ]
+    },
+    {
+        "deliberate": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "up": [
+            "RB",
+            "IN"
+        ]
+    },
+    {
+        "so": [
+            "RB",
+            "IN"
+        ]
+    }
+]

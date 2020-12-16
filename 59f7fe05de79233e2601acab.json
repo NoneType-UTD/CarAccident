@@ -1,0 +1,26 @@
+[
+    {
+        "stored": [
+            "VBN",
+            "VBD"
+        ]
+    },
+    {
+        "picnic": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "find": [
+            "NN",
+            "VB"
+        ]
+    },
+    {
+        "outside": [
+            "JJ",
+            "IN"
+        ]
+    }
+]

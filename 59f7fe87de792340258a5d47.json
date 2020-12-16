@@ -1,0 +1,116 @@
+[
+    {
+        "forecasts": [
+            "VBZ",
+            "NNS"
+        ]
+    },
+    {
+        "Photo": [
+            "NN",
+            "NNP"
+        ]
+    },
+    {
+        "more": [
+            "JJR",
+            "RBR"
+        ]
+    },
+    {
+        "increases": [
+            "NNS",
+            "VBZ"
+        ]
+    },
+    {
+        "up": [
+            "IN",
+            "RB"
+        ]
+    },
+    {
+        "sooner": [
+            "JJR",
+            "RBR"
+        ]
+    },
+    {
+        "5-6": [
+            "JJ",
+            "CD"
+        ]
+    },
+    {
+        "around": [
+            "RP",
+            "IN"
+        ]
+    },
+    {
+        "Rs1": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "Rs10": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "addresses": [
+            "VBZ",
+            "NNS"
+        ]
+    },
+    {
+        "her": [
+            "PRP",
+            "PRP$"
+        ]
+    },
+    {
+        "quicker": [
+            "NN",
+            "JJR"
+        ]
+    },
+    {
+        "depend": [
+            "NN",
+            "VB"
+        ]
+    },
+    {
+        "All": [
+            "NNP",
+            "DT"
+        ]
+    },
+    {
+        "Traders": [
+            "NNP",
+            "NNS"
+        ]
+    },
+    {
+        "umbrella": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "Given": [
+            "NNP",
+            "VBN"
+        ]
+    },
+    {
+        "needs": [
+            "NNS",
+            "VBZ"
+        ]
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "About": [
+            "NNP",
+            "IN"
+        ]
+    },
+    {
+        "N1tn": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "Delivery": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "Monitoring": [
+            "NNP",
+            "VBG"
+        ]
+    },
+    {
+        "forthcoming": [
+            "VBG",
+            "JJ"
+        ]
+    },
+    {
+        "statutory": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "up": [
+            "RB",
+            "IN"
+        ]
+    },
+    {
+        "till": [
+            "VB",
+            "IN"
+        ]
+    },
+    {
+        "Copyright": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "PUNCH": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "rewritten": [
+            "VB",
+            "VBN"
+        ]
+    },
+    {
+        "express": [
+            "NN",
+            "VBP"
+        ]
+    },
+    {
+        "Visited": [
+            "VBD",
+            "VBN"
+        ]
+    }
+]

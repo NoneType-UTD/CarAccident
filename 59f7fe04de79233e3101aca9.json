@@ -1,0 +1,404 @@
+[
+    {
+        "Searching": [
+            "VBG",
+            "NN"
+        ]
+    },
+    {
+        "Doctor": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "Metres": [
+            "NNS",
+            "NNP"
+        ]
+    },
+    {
+        "IPS": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "healthcare": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "sobering": [
+            "VBG",
+            "JJ"
+        ]
+    },
+    {
+        "further": [
+            "RB",
+            "RBR"
+        ]
+    },
+    {
+        "isolated": [
+            "JJ",
+            "VBN"
+        ]
+    },
+    {
+        "sent": [
+            "VBD",
+            "VBN"
+        ]
+    },
+    {
+        "reminded": [
+            "JJ",
+            "VBN"
+        ]
+    },
+    {
+        "that": [
+            "IN",
+            "DT"
+        ]
+    },
+    {
+        "mile-wise": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "tilted": [
+            "VBN",
+            "JJ"
+        ]
+    },
+    {
+        "Andes": [
+            "NNP",
+            "NNPS"
+        ]
+    },
+    {
+        "filter": [
+            "VBP",
+            "NN"
+        ]
+    },
+    {
+        "set": [
+            "VBD",
+            "VBN"
+        ]
+    },
+    {
+        "skirts": [
+            "NNS",
+            "VBZ"
+        ]
+    },
+    {
+        "shawls": [
+            "NN",
+            "NNS"
+        ]
+    },
+    {
+        "slung": [
+            "NN",
+            "VBD"
+        ]
+    },
+    {
+        "child": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "R": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "put": [
+            "VBD",
+            "VBN"
+        ]
+    },
+    {
+        "glucose": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "cast": [
+            "NN",
+            "VBN"
+        ]
+    },
+    {
+        "tall": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "brimmed": [
+            "VBD",
+            "VBN"
+        ]
+    },
+    {
+        "hat": [
+            "WP",
+            "NN"
+        ]
+    },
+    {
+        "leathery": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "reveals": [
+            "NNS",
+            "VBZ"
+        ]
+    },
+    {
+        "crinkle": [
+            "NN",
+            "VB"
+        ]
+    },
+    {
+        "smile": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "down": [
+            "RP",
+            "RB"
+        ]
+    },
+    {
+        "Spanish": [
+            "JJ",
+            "NNP"
+        ]
+    },
+    {
+        "towards": [
+            "NNS",
+            "IN"
+        ]
+    },
+    {
+        "rolling": [
+            "VBG",
+            "JJ"
+        ]
+    },
+    {
+        "sometimes": [
+            "VBZ",
+            "RB"
+        ]
+    },
+    {
+        "right": [
+            "NN",
+            "RB"
+        ]
+    },
+    {
+        "plays": [
+            "NNS",
+            "VBZ"
+        ]
+    },
+    {
+        "insect": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "swollen": [
+            "VBN",
+            "JJ"
+        ]
+    },
+    {
+        "cook": [
+            "VB",
+            "VBP"
+        ]
+    },
+    {
+        "oftentimes": [
+            "VBZ",
+            "RB"
+        ]
+    },
+    {
+        "enough": [
+            "NN",
+            "RB"
+        ]
+    },
+    {
+        "make": [
+            "VBP",
+            "VB"
+        ]
+    },
+    {
+        "regards": [
+            "NNS",
+            "VBZ"
+        ]
+    },
+    {
+        "extreme": [
+            "VB",
+            "JJ"
+        ]
+    },
+    {
+        "struggles": [
+            "NNS",
+            "VBZ"
+        ]
+    },
+    {
+        "brushes": [
+            "VBZ",
+            "NNS"
+        ]
+    },
+    {
+        "off": [
+            "IN",
+            "RB"
+        ]
+    },
+    {
+        "Always": [
+            "NNP",
+            "RB"
+        ]
+    },
+    {
+        "scared": [
+            "JJ",
+            "VBN"
+        ]
+    },
+    {
+        "striking": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "realize": [
+            "NN",
+            "VB"
+        ]
+    },
+    {
+        "screened": [
+            "VBD",
+            "VBN"
+        ]
+    },
+    {
+        "one-fourth": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "overweight": [
+            "VBN",
+            "JJ"
+        ]
+    },
+    {
+        "examined": [
+            "VBD",
+            "VBN"
+        ]
+    },
+    {
+        "both": [
+            "DT",
+            "CC"
+        ]
+    },
+    {
+        "diabetes": [
+            "NNS",
+            "NN"
+        ]
+    },
+    {
+        "ignorant": [
+            "VB",
+            "JJ"
+        ]
+    },
+    {
+        "more": [
+            "RBR",
+            "JJR"
+        ]
+    },
+    {
+        "Uneducated": [
+            "VBN",
+            "JJ"
+        ]
+    },
+    {
+        "died": [
+            "VBN",
+            "VBD"
+        ]
+    },
+    {
+        "known": [
+            "VBN",
+            "JJ"
+        ]
+    },
+    {
+        "Human": [
+            "NNP",
+            "JJ"
+        ]
+    },
+    {
+        "meaning": [
+            "NN",
+            "VBG"
+        ]
+    },
+    {
+        "ten": [
+            "NNS",
+            "CD"
+        ]
+    }
+]

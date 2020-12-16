@@ -1,0 +1,86 @@
+[
+    {
+        "Russian": [
+            "NNP",
+            "JJ"
+        ]
+    },
+    {
+        "past": [
+            "VB",
+            "JJ"
+        ]
+    },
+    {
+        "both": [
+            "DT",
+            "CC"
+        ]
+    },
+    {
+        "laundering": [
+            "VBG",
+            "NN"
+        ]
+    },
+    {
+        "lobbying": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "imprisoning": [
+            "NN",
+            "VBG"
+        ]
+    },
+    {
+        "said": [
+            "VBD",
+            "VBN"
+        ]
+    },
+    {
+        "offshore": [
+            "RB",
+            "JJ"
+        ]
+    },
+    {
+        "lifestyle": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "WATCH": [
+            "NN",
+            "VB"
+        ]
+    },
+    {
+        "down": [
+            "RB",
+            "RP"
+        ]
+    },
+    {
+        "pic.twitter.com/79bp7IIxO0": [
+            "VBP",
+            "NN"
+        ]
+    },
+    {
+        "oligarchs": [
+            "NN",
+            "NNS"
+        ]
+    },
+    {
+        "hacking": [
+            "VBG",
+            "NN"
+        ]
+    }
+]

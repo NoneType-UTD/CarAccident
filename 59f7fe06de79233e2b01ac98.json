@@ -1,0 +1,68 @@
+[
+    {
+        "Kurdistan": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "coming": [
+            "JJ",
+            "VBG"
+        ]
+    },
+    {
+        "Kurdish": [
+            "NNP",
+            "JJ"
+        ]
+    },
+    {
+        "Iraqi": [
+            "NNP",
+            "JJ"
+        ]
+    },
+    {
+        "al-Abadi": [
+            "NN",
+            "NNP"
+        ]
+    },
+    {
+        "both": [
+            "DT",
+            "CC"
+        ]
+    },
+    {
+        "Kurds": [
+            "NNP",
+            "NNPS"
+        ]
+    },
+    {
+        "back.Flight": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "Reuters": [
+            "NNPS",
+            "NNP"
+        ]
+    },
+    {
+        "ISNA.Tehran": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "crossing": [
+            "NN",
+            "VBG"
+        ]
+    }
+]

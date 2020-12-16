@@ -1,0 +1,98 @@
+[
+    {
+        "heavyweight": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "boxing": [
+            "VBG",
+            "NN"
+        ]
+    },
+    {
+        "IBF": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "Spokesman": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "exciting": [
+            "VBG",
+            "JJ"
+        ]
+    },
+    {
+        "annals": [
+            "NNS",
+            "NN"
+        ]
+    },
+    {
+        "chosen": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "let": [
+            "VBP",
+            "VBD"
+        ]
+    },
+    {
+        "behind": [
+            "VB",
+            "IN"
+        ]
+    },
+    {
+        "anytime": [
+            "NN",
+            "RB"
+        ]
+    },
+    {
+        "outfits": [
+            "NNS",
+            "NN"
+        ]
+    },
+    {
+        "Copyright": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "PUNCH": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "rewritten": [
+            "VB",
+            "VBN"
+        ]
+    },
+    {
+        "express": [
+            "NN",
+            "VBP"
+        ]
+    },
+    {
+        "Visited": [
+            "VBD",
+            "VBN"
+        ]
+    }
+]

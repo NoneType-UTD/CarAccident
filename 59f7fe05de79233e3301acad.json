@@ -1,0 +1,68 @@
+[
+    {
+        "Capital": [
+            "NN",
+            "NNP"
+        ]
+    },
+    {
+        "facilitate": [
+            "VBP",
+            "VB"
+        ]
+    },
+    {
+        "NCMDF": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "generate": [
+            "NN",
+            "VB"
+        ]
+    },
+    {
+        "undertake": [
+            "JJ",
+            "VB"
+        ]
+    },
+    {
+        "sponsor": [
+            "JJ",
+            "VB"
+        ]
+    },
+    {
+        "Copyright": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "PUNCH": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "rewritten": [
+            "VB",
+            "VBN"
+        ]
+    },
+    {
+        "express": [
+            "NN",
+            "VBP"
+        ]
+    },
+    {
+        "Visited": [
+            "VBD",
+            "VBN"
+        ]
+    }
+]

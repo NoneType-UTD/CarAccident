@@ -1,0 +1,26 @@
+[
+    {
+        "ID": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "belong": [
+            "NN",
+            "VB"
+        ]
+    },
+    {
+        "along": [
+            "RB",
+            "RP"
+        ]
+    },
+    {
+        "challenging": [
+            "NN",
+            "JJ"
+        ]
+    }
+]

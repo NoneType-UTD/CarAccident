@@ -1,0 +1,26 @@
+[
+    {
+        "Government": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "Irish": [
+            "NNP",
+            "JJ"
+        ]
+    },
+    {
+        "EU27": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "united": [
+            "JJ",
+            "VBN"
+        ]
+    }
+]

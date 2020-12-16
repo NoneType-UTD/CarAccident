@@ -1,0 +1,134 @@
+[
+    {
+        "have": [
+            "VB",
+            "VBP"
+        ]
+    },
+    {
+        "Clinical": [
+            "NNP",
+            "JJ"
+        ]
+    },
+    {
+        "SHARE": [
+            "NNP",
+            "VB"
+        ]
+    },
+    {
+        "Share": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "Photo": [
+            "NN",
+            "NNP"
+        ]
+    },
+    {
+        "iStock": [
+            "NN",
+            "NNP"
+        ]
+    },
+    {
+        "one-third": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "sleeping": [
+            "NN",
+            "VBG"
+        ]
+    },
+    {
+        "Advertisement": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "more": [
+            "JJR",
+            "RBR"
+        ]
+    },
+    {
+        "specialist": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "one": [
+            "NN",
+            "CD"
+        ]
+    },
+    {
+        "third": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "struggle": [
+            "VBP",
+            "NN"
+        ]
+    },
+    {
+        "nap": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "decreases": [
+            "NNS",
+            "VBZ"
+        ]
+    },
+    {
+        "bit": [
+            "RB",
+            "NN"
+        ]
+    },
+    {
+        "Australasian": [
+            "NNP",
+            "JJ"
+        ]
+    },
+    {
+        "worth": [
+            "IN",
+            "NN"
+        ]
+    },
+    {
+        "suggest": [
+            "VB",
+            "VBP"
+        ]
+    },
+    {
+        "drinking": [
+            "VBG",
+            "NN"
+        ]
+    },
+    {
+        "off": [
+            "IN",
+            "RP"
+        ]
+    }
+]

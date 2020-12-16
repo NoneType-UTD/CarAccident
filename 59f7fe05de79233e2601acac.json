@@ -1,0 +1,176 @@
+[
+    {
+        "Ex-PM": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "warns": [
+            "NNS",
+            "VBZ"
+        ]
+    },
+    {
+        "fraudulent": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "dishonest": [
+            "VBN",
+            "JJ"
+        ]
+    },
+    {
+        "wrongdoing": [
+            "VBG",
+            "NN"
+        ]
+    },
+    {
+        "returned": [
+            "VBN",
+            "VBD"
+        ]
+    },
+    {
+        "confiscated": [
+            "VBD",
+            "VBN"
+        ]
+    },
+    {
+        "banned": [
+            "VBD",
+            "VBN"
+        ]
+    },
+    {
+        "Read": [
+            "NNP",
+            "VB"
+        ]
+    },
+    {
+        "more": [
+            "JJR",
+            "RBR"
+        ]
+    },
+    {
+        "ex-PM": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "My": [
+            "NNP",
+            "PRP$"
+        ]
+    },
+    {
+        "Times": [
+            "NNS",
+            "NNP"
+        ]
+    },
+    {
+        "UK": [
+            "JJ",
+            "NNP"
+        ]
+    },
+    {
+        "Band": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "Photograph": [
+            "NN",
+            "NNP"
+        ]
+    },
+    {
+        "Conservatives": [
+            "NNPS",
+            "NNS"
+        ]
+    },
+    {
+        "heel": [
+            "VB",
+            "NN"
+        ]
+    },
+    {
+        "Dividends": [
+            "NNP",
+            "NNS"
+        ]
+    },
+    {
+        "reward": [
+            "VBN",
+            "NN"
+        ]
+    },
+    {
+        "ours": [
+            "NNS",
+            "JJ"
+        ]
+    },
+    {
+        "untouched": [
+            "VBD",
+            "JJ"
+        ]
+    },
+    {
+        "said": [
+            "VBD",
+            "VBN"
+        ]
+    },
+    {
+        "honest": [
+            "JJS",
+            "JJ"
+        ]
+    },
+    {
+        "up": [
+            "RB",
+            "RP"
+        ]
+    },
+    {
+        "about": [
+            "RB",
+            "IN"
+        ]
+    },
+    {
+        "further": [
+            "JJ",
+            "RB"
+        ]
+    },
+    {
+        "ebbing": [
+            "VBG",
+            "NN"
+        ]
+    },
+    {
+        "know": [
+            "VBP",
+            "VB"
+        ]
+    }
+]

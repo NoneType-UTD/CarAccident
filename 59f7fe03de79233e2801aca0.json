@@ -1,0 +1,32 @@
+[
+    {
+        "Northern": [
+            "NNP",
+            "JJ"
+        ]
+    },
+    {
+        "Irish": [
+            "NNP",
+            "JJ"
+        ]
+    },
+    {
+        "nationalist": [
+            "VBP",
+            "JJ"
+        ]
+    },
+    {
+        "DUP": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "ended": [
+            "VBD",
+            "VBN"
+        ]
+    }
+]

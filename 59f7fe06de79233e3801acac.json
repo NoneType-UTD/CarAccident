@@ -1,0 +1,254 @@
+[
+    {
+        "Soviet-era": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "Tatar": [
+            "NNP",
+            "JJ"
+        ]
+    },
+    {
+        "Memorial": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "founded": [
+            "VBD",
+            "VBN"
+        ]
+    },
+    {
+        "Terror": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "Mass": [
+            "NNP",
+            "JJ"
+        ]
+    },
+    {
+        "Roman": [
+            "NNP",
+            "JJ"
+        ]
+    },
+    {
+        "memorial": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "remembering": [
+            "NN",
+            "VBG"
+        ]
+    },
+    {
+        "dark": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "Advertisement": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "Continue": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "up": [
+            "IN",
+            "RP"
+        ]
+    },
+    {
+        "figures": [
+            "VBZ",
+            "NNS"
+        ]
+    },
+    {
+        "Photo": [
+            "VB",
+            "NNP"
+        ]
+    },
+    {
+        "Newsletter": [
+            "NN",
+            "NNP"
+        ]
+    },
+    {
+        "Sign": [
+            "NNP",
+            "VB"
+        ]
+    },
+    {
+        "Up": [
+            "NNP",
+            "RP"
+        ]
+    },
+    {
+        "Please": [
+            "NNP",
+            "VB"
+        ]
+    },
+    {
+        "verify": [
+            "NN",
+            "VB"
+        ]
+    },
+    {
+        "Invalid": [
+            "NNP",
+            "JJ"
+        ]
+    },
+    {
+        "re-enter": [
+            "NN",
+            "VB"
+        ]
+    },
+    {
+        "Thank": [
+            "NNP",
+            "VB"
+        ]
+    },
+    {
+        "shot": [
+            "NN",
+            "VBN"
+        ]
+    },
+    {
+        "harrowing": [
+            "VBG",
+            "JJ"
+        ]
+    },
+    {
+        "argue": [
+            "NN",
+            "VBP"
+        ]
+    },
+    {
+        "subject": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "best": [
+            "RB",
+            "JJS"
+        ]
+    },
+    {
+        "bloody": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "estimated": [
+            "JJ",
+            "VBN"
+        ]
+    },
+    {
+        "forced": [
+            "VBN",
+            "VBD"
+        ]
+    },
+    {
+        "Shooting": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "child": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "silence": [
+            "VB",
+            "NN"
+        ]
+    },
+    {
+        "doubt": [
+            "VB",
+            "VBP"
+        ]
+    },
+    {
+        "lane": [
+            "IN",
+            "NN"
+        ]
+    },
+    {
+        "Oblivion": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "descendant": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "grappling": [
+            "NN",
+            "VBG"
+        ]
+    },
+    {
+        "both": [
+            "CC",
+            "DT"
+        ]
+    },
+    {
+        "oppressed": [
+            "VBN",
+            "JJ"
+        ]
+    },
+    {
+        "catalog": [
+            "VB",
+            "NN"
+        ]
+    }
+]

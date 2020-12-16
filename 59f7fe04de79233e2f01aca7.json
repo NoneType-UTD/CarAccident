@@ -1,0 +1,50 @@
+[
+    {
+        "UPI": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "undersecretary-general": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "evade": [
+            "VBD",
+            "VB"
+        ]
+    },
+    {
+        "towards": [
+            "VBP",
+            "IN"
+        ]
+    },
+    {
+        "Conflict": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "sidelined": [
+            "VBD",
+            "VBN"
+        ]
+    },
+    {
+        "Cabinet": [
+            "NN",
+            "NNP"
+        ]
+    },
+    {
+        "displaced": [
+            "VBN",
+            "JJ"
+        ]
+    }
+]

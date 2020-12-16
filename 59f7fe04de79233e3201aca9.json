@@ -1,0 +1,38 @@
+[
+    {
+        "NEW": [
+            "JJ",
+            "NNP"
+        ]
+    },
+    {
+        "parking": [
+            "VBG",
+            "NN"
+        ]
+    },
+    {
+        "PIL": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "Acting": [
+            "VBG",
+            "NNP"
+        ]
+    },
+    {
+        "SDMC": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "civic": [
+            "NN",
+            "JJ"
+        ]
+    }
+]

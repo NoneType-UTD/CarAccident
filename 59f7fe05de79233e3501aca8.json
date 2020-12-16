@@ -1,0 +1,104 @@
+[
+    {
+        "that": [
+            "DT",
+            "IN"
+        ]
+    },
+    {
+        "post": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "Photo": [
+            "NN",
+            "NNP"
+        ]
+    },
+    {
+        "Reuters": [
+            "NNPS",
+            "NNP"
+        ]
+    },
+    {
+        "Oil": [
+            "NN",
+            "NNP"
+        ]
+    },
+    {
+        "first": [
+            "RB",
+            "JJ"
+        ]
+    },
+    {
+        "integrated": [
+            "JJ",
+            "VBN"
+        ]
+    },
+    {
+        "constrained": [
+            "JJ",
+            "VBN"
+        ]
+    },
+    {
+        "Baa2": [
+            "NNP",
+            "JJ"
+        ]
+    },
+    {
+        "downstream": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "overlap": [
+            "NN",
+            "VBP"
+        ]
+    },
+    {
+        "petrochemical": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "established": [
+            "VBD",
+            "JJ"
+        ]
+    },
+    {
+        "pro-forma": [
+            "JJ",
+            "FW"
+        ]
+    },
+    {
+        "retained": [
+            "JJ",
+            "VBN"
+        ]
+    },
+    {
+        "RCF": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "Baa1": [
+            "NNP",
+            "NN"
+        ]
+    }
+]

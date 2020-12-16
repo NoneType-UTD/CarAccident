@@ -1,0 +1,128 @@
+[
+    {
+        "ISLAMABAD": [
+            "NN",
+            "NNP"
+        ]
+    },
+    {
+        "Chief": [
+            "NN",
+            "NNP"
+        ]
+    },
+    {
+        "Admiral": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "honours": [
+            "NN",
+            "NNS"
+        ]
+    },
+    {
+        "held": [
+            "VBD",
+            "VBN"
+        ]
+    },
+    {
+        "Leader": [
+            "NN",
+            "NNP"
+        ]
+    },
+    {
+        "Chiefs": [
+            "NNP",
+            "NNPS"
+        ]
+    },
+    {
+        "ranking": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "exhibited": [
+            "VBN",
+            "VBD"
+        ]
+    },
+    {
+        "instilled": [
+            "VBN",
+            "VBD"
+        ]
+    },
+    {
+        "amongst": [
+            "NN",
+            "IN"
+        ]
+    },
+    {
+        "undertook": [
+            "JJ",
+            "VBD"
+        ]
+    },
+    {
+        "commissioning": [
+            "NN",
+            "VBG"
+        ]
+    },
+    {
+        "Sword": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "Command": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "Surface": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "25th": [
+            "CD",
+            "JJ"
+        ]
+    },
+    {
+        "DG": [
+            "NNP",
+            "NNS"
+        ]
+    },
+    {
+        "Multi-National": [
+            "NNP",
+            "JJ"
+        ]
+    },
+    {
+        "Combined": [
+            "NNP",
+            "JJ"
+        ]
+    },
+    {
+        "Plans": [
+            "NNPS",
+            "NNS"
+        ]
+    }
+]

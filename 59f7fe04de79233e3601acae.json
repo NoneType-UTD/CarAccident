@@ -1,0 +1,32 @@
+[
+    {
+        "happened": [
+            "VBD",
+            "VBN"
+        ]
+    },
+    {
+        "off": [
+            "RB",
+            "IN"
+        ]
+    },
+    {
+        "attempted": [
+            "VBD",
+            "VBN"
+        ]
+    },
+    {
+        "pronounced": [
+            "VBN",
+            "JJ"
+        ]
+    },
+    {
+        "garda": [
+            "JJ",
+            "NN"
+        ]
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "Cantabrians": [
+            "NNPS",
+            "NNS"
+        ]
+    },
+    {
+        "rebuild": [
+            "NN",
+            "VB"
+        ]
+    },
+    {
+        "EQC": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "wrangling": [
+            "VBG",
+            "NN"
+        ]
+    },
+    {
+        "All": [
+            "PDT",
+            "DT"
+        ]
+    },
+    {
+        "Labour": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "MP": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "powerless": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "Earthquake": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "Commission": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "Advertisement": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "Replacing": [
+            "NNP",
+            "VBG"
+        ]
+    },
+    {
+        "pre-election": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "botched": [
+            "VBN",
+            "JJ"
+        ]
+    },
+    {
+        "rejected": [
+            "VBN",
+            "VBD"
+        ]
+    },
+    {
+        "scope": [
+            "VB",
+            "NN"
+        ]
+    },
+    {
+        "award": [
+            "VB",
+            "NN"
+        ]
+    },
+    {
+        "ongoing": [
+            "VBG",
+            "JJ"
+        ]
+    },
+    {
+        "contribute": [
+            "NN",
+            "VBP"
+        ]
+    },
+    {
+        "post-quake": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "enduring": [
+            "VBG",
+            "JJ"
+        ]
+    },
+    {
+        "privileged": [
+            "VBN",
+            "JJ"
+        ]
+    }
+]

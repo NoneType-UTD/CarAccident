@@ -1,0 +1,98 @@
+[
+    {
+        "Islamic": [
+            "NNP",
+            "JJ"
+        ]
+    },
+    {
+        "State": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "donor": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "five-nation": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "Newsletter": [
+            "NN",
+            "NNP"
+        ]
+    },
+    {
+        "Sign": [
+            "NNP",
+            "VB"
+        ]
+    },
+    {
+        "Up": [
+            "NNP",
+            "RP"
+        ]
+    },
+    {
+        "Please": [
+            "NNP",
+            "VB"
+        ]
+    },
+    {
+        "verify": [
+            "NN",
+            "VB"
+        ]
+    },
+    {
+        "Invalid": [
+            "NNP",
+            "JJ"
+        ]
+    },
+    {
+        "re-enter": [
+            "NN",
+            "VB"
+        ]
+    },
+    {
+        "Thank": [
+            "NNP",
+            "VB"
+        ]
+    },
+    {
+        "Foreign": [
+            "JJ",
+            "NNP"
+        ]
+    },
+    {
+        "delighted": [
+            "VBN",
+            "JJ"
+        ]
+    },
+    {
+        "very": [
+            "RB",
+            "JJ"
+        ]
+    },
+    {
+        "nature": [
+            "RB",
+            "NN"
+        ]
+    }
+]

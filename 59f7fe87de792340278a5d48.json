@@ -1,0 +1,86 @@
+[
+    {
+        "laundering": [
+            "VBG",
+            "NN"
+        ]
+    },
+    {
+        "stemming": [
+            "NN",
+            "VBG"
+        ]
+    },
+    {
+        "face": [
+            "NN",
+            "VB"
+        ]
+    },
+    {
+        "related": [
+            "VBN",
+            "JJ"
+        ]
+    },
+    {
+        "hidden": [
+            "JJ",
+            "VBN"
+        ]
+    },
+    {
+        "Grenadines": [
+            "NNP",
+            "NNPS"
+        ]
+    },
+    {
+        "total": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "more": [
+            "JJR",
+            "RBR"
+        ]
+    },
+    {
+        "offshore": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "recusal": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "earlier": [
+            "JJR",
+            "RB"
+        ]
+    },
+    {
+        "oversaw": [
+            "VBD",
+            "VB"
+        ]
+    },
+    {
+        "Agents": [
+            "NNP",
+            "NNPS"
+        ]
+    },
+    {
+        "attended": [
+            "VBN",
+            "VBD"
+        ]
+    }
+]

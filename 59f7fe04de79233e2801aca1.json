@@ -1,0 +1,236 @@
+[
+    {
+        "Puigdemont": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "Junqueras": [
+            "NNP",
+            "FW"
+        ]
+    },
+    {
+        "Catalan": [
+            "NNP",
+            "JJ"
+        ]
+    },
+    {
+        "de": [
+            "FW",
+            "IN"
+        ]
+    },
+    {
+        "earlier": [
+            "RBR",
+            "JJR"
+        ]
+    },
+    {
+        "dissolved": [
+            "VBN",
+            "VBD"
+        ]
+    },
+    {
+        "d'Esquadra": [
+            "NN",
+            "NNP"
+        ]
+    },
+    {
+        "firing": [
+            "VBG",
+            "NN"
+        ]
+    },
+    {
+        "down": [
+            "RP",
+            "IN"
+        ]
+    },
+    {
+        "la": [
+            "FW",
+            "NNP"
+        ]
+    },
+    {
+        "medieval": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "dia": [
+            "NN",
+            "FW"
+        ]
+    },
+    {
+        "Hello": [
+            "NNP",
+            "UH"
+        ]
+    },
+    {
+        "maximum": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "parliament": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "criminal": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "PP": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "d'Avui": [
+            "NN",
+            "NNP"
+        ]
+    },
+    {
+        "covered": [
+            "VBD",
+            "VBN"
+        ]
+    },
+    {
+        "anti-independence": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "Sense": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "pro-union": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "Ines": [
+            "NNS",
+            "NNP"
+        ]
+    },
+    {
+        "sang": [
+            "VBP",
+            "VBD"
+        ]
+    },
+    {
+        "richer": [
+            "NN",
+            "JJR"
+        ]
+    },
+    {
+        "trusts": [
+            "VBZ",
+            "NNS"
+        ]
+    },
+    {
+        "come": [
+            "VBN",
+            "VB"
+        ]
+    },
+    {
+        "reinstate": [
+            "JJ",
+            "VB"
+        ]
+    },
+    {
+        "best": [
+            "JJS",
+            "RB"
+        ]
+    },
+    {
+        "crowds": [
+            "NN",
+            "NNS"
+        ]
+    },
+    {
+        "Will": [
+            "VBP",
+            "MD"
+        ]
+    },
+    {
+        "Vote": [
+            "NNP",
+            "VB"
+        ]
+    },
+    {
+        "Go": [
+            "NNP",
+            "VB"
+        ]
+    },
+    {
+        "Prison": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "holding": [
+            "VBG",
+            "NN"
+        ]
+    },
+    {
+        "Voted": [
+            "NNP",
+            "VBN"
+        ]
+    },
+    {
+        "Dialogued": [
+            "NNP",
+            "VBN"
+        ]
+    },
+    {
+        "Tactical": [
+            "JJ",
+            "NNP"
+        ]
+    },
+    {
+        "admitted": [
+            "VBD",
+            "VBN"
+        ]
+    }
+]

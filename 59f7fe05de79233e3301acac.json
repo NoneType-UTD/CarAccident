@@ -1,0 +1,284 @@
+[
+    {
+        "resident": [
+            "VBN",
+            "JJ"
+        ]
+    },
+    {
+        "most": [
+            "JJS",
+            "RBS"
+        ]
+    },
+    {
+        "Africans": [
+            "NNPS",
+            "NNS"
+        ]
+    },
+    {
+        "readily": [
+            "VB",
+            "RB"
+        ]
+    },
+    {
+        "well-managed": [
+            "VBN",
+            "JJ"
+        ]
+    },
+    {
+        "ticking": [
+            "NN",
+            "VBG"
+        ]
+    },
+    {
+        "late-comer": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "latter": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "starting": [
+            "NN",
+            "VBG"
+        ]
+    },
+    {
+        "leverage": [
+            "VB",
+            "NN"
+        ]
+    },
+    {
+        "agro": [
+            "VBP",
+            "NN"
+        ]
+    },
+    {
+        "needs": [
+            "NNS",
+            "VBZ"
+        ]
+    },
+    {
+        "Arab": [
+            "JJ",
+            "NNP"
+        ]
+    },
+    {
+        "Spring": [
+            "NN",
+            "NNP"
+        ]
+    },
+    {
+        "what": [
+            "WDT",
+            "WP"
+        ]
+    },
+    {
+        "troubling": [
+            "VBG",
+            "JJ"
+        ]
+    },
+    {
+        "yearly": [
+            "RB",
+            "JJ"
+        ]
+    },
+    {
+        "3-5": [
+            "JJ",
+            "CD"
+        ]
+    },
+    {
+        "monopoly": [
+            "VBN",
+            "NN"
+        ]
+    },
+    {
+        "estimated": [
+            "JJ",
+            "VBN"
+        ]
+    },
+    {
+        "calorie": [
+            "NNS",
+            "NN"
+        ]
+    },
+    {
+        "intake": [
+            "VBP",
+            "NN"
+        ]
+    },
+    {
+        "fertile": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "smallholder": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "TK": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "There": [
+            "EX",
+            "RB"
+        ]
+    },
+    {
+        "agro-TNCs": [
+            "NN",
+            "NNS"
+        ]
+    },
+    {
+        "TK-driven": [
+            "NNP",
+            "JJ"
+        ]
+    },
+    {
+        "resists": [
+            "NNS",
+            "VBZ"
+        ]
+    },
+    {
+        "mere": [
+            "VB",
+            "JJ"
+        ]
+    },
+    {
+        "winning": [
+            "VBG",
+            "JJ"
+        ]
+    },
+    {
+        "climate": [
+            "VB",
+            "NN"
+        ]
+    },
+    {
+        "ICTs": [
+            "NNP",
+            "NNS"
+        ]
+    },
+    {
+        "bridge": [
+            "VB",
+            "NN"
+        ]
+    },
+    {
+        "legitimate": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "supply/value": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "havocs": [
+            "NN",
+            "NNS"
+        ]
+    },
+    {
+        "self-serving": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "Full": [
+            "NNP",
+            "JJ"
+        ]
+    },
+    {
+        "Talks": [
+            "NNP",
+            "NNS"
+        ]
+    },
+    {
+        "Future": [
+            "NN",
+            "NNP"
+        ]
+    },
+    {
+        "Follow": [
+            "IN",
+            "VB"
+        ]
+    },
+    {
+        "Copyright": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "PUNCH": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "rewritten": [
+            "VB",
+            "VBN"
+        ]
+    },
+    {
+        "express": [
+            "NN",
+            "VBP"
+        ]
+    },
+    {
+        "Visited": [
+            "VBD",
+            "VBN"
+        ]
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "Reporter": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "EDITOR": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "BRIEF": [
+            "NNP",
+            "NNS"
+        ]
+    },
+    {
+        "invited": [
+            "VBD",
+            "VBN"
+        ]
+    },
+    {
+        "works": [
+            "NNS",
+            "VBZ"
+        ]
+    },
+    {
+        "interacted": [
+            "VBN",
+            "VBD"
+        ]
+    }
+]

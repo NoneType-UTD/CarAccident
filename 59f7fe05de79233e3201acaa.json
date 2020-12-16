@@ -1,0 +1,80 @@
+[
+    {
+        "CHENNAI": [
+            "NN",
+            "NNP"
+        ]
+    },
+    {
+        "institutes": [
+            "NNS",
+            "NN"
+        ]
+    },
+    {
+        "before": [
+            "IN",
+            "RB"
+        ]
+    },
+    {
+        "as": [
+            "IN",
+            "RB"
+        ]
+    },
+    {
+        "police": [
+            "NN",
+            "NNS"
+        ]
+    },
+    {
+        "S": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "witness": [
+            "VB",
+            "NN"
+        ]
+    },
+    {
+        "Ramanathapuram": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "Traffic": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "GST": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "bound": [
+            "NN",
+            "VBD"
+        ]
+    },
+    {
+        "witnessed": [
+            "VBD",
+            "VBN"
+        ]
+    },
+    {
+        "logging": [
+            "NN",
+            "VBG"
+        ]
+    }
+]

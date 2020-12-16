@@ -1,0 +1,62 @@
+[
+    {
+        "8th": [
+            "CD",
+            "JJ"
+        ]
+    },
+    {
+        "announces": [
+            "NNS",
+            "VBZ"
+        ]
+    },
+    {
+        "5th": [
+            "CD",
+            "NN"
+        ]
+    },
+    {
+        "both": [
+            "DT",
+            "CC"
+        ]
+    },
+    {
+        "conducted": [
+            "VBD",
+            "VBN"
+        ]
+    },
+    {
+        "grade": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "access": [
+            "NN",
+            "VB"
+        ]
+    },
+    {
+        "said": [
+            "VBD",
+            "VBN"
+        ]
+    },
+    {
+        "try": [
+            "NN",
+            "VBP"
+        ]
+    },
+    {
+        "A.M": [
+            "NNP",
+            "NN"
+        ]
+    }
+]

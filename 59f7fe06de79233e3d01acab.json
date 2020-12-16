@@ -1,0 +1,74 @@
+[
+    {
+        "more-in": [
+            "JJ",
+            "JJR"
+        ]
+    },
+    {
+        "Introduction": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "train": [
+            "VBP",
+            "NN"
+        ]
+    },
+    {
+        "express": [
+            "NN",
+            "VBP"
+        ]
+    },
+    {
+        "Palakkad": [
+            "NNP",
+            "JJ"
+        ]
+    },
+    {
+        "highlights": [
+            "NNS",
+            "VBZ"
+        ]
+    },
+    {
+        "Train": [
+            "VB",
+            "NNP"
+        ]
+    },
+    {
+        "AC": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "daily": [
+            "RB",
+            "JJ"
+        ]
+    },
+    {
+        "Junction": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "following": [
+            "JJ",
+            "VBG"
+        ]
+    },
+    {
+        "about": [
+            "RB",
+            "IN"
+        ]
+    }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "more": [
+            "RBR",
+            "JJR"
+        ]
+    },
+    {
+        "coloured": [
+            "JJ",
+            "VBN"
+        ]
+    },
+    {
+        "Commercial": [
+            "JJ",
+            "NNP"
+        ]
+    },
+    {
+        "unassuming": [
+            "VBG",
+            "JJ"
+        ]
+    },
+    {
+        "stomach-turning": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "abuse": [
+            "IN",
+            "NN"
+        ]
+    },
+    {
+        "ends": [
+            "VBZ",
+            "NNS"
+        ]
+    },
+    {
+        "guys": [
+            "JJ",
+            "NNS"
+        ]
+    },
+    {
+        "spaghetti": [
+            "JJ",
+            "NNS"
+        ]
+    },
+    {
+        "away": [
+            "RP",
+            "RB"
+        ]
+    },
+    {
+        "Worse": [
+            "JJR",
+            "RBR"
+        ]
+    },
+    {
+        "headlong": [
+            "NN",
+            "RB"
+        ]
+    },
+    {
+        "100kmph": [
+            "CD",
+            "NN"
+        ]
+    },
+    {
+        "try": [
+            "NN",
+            "VB"
+        ]
+    },
+    {
+        "Unmarked": [
+            "VBN",
+            "JJ"
+        ]
+    },
+    {
+        "sheer": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "hard": [
+            "JJ",
+            "RB"
+        ]
+    },
+    {
+        "wish": [
+            "JJ",
+            "NN"
+        ]
+    }
+]

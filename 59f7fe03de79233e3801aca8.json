@@ -1,0 +1,20 @@
+[
+    {
+        "beer-making": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "more": [
+            "JJR",
+            "RBR"
+        ]
+    },
+    {
+        "British": [
+            "NNP",
+            "JJ"
+        ]
+    }
+]

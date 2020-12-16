@@ -1,0 +1,44 @@
+[
+    {
+        "missile": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "coming": [
+            "JJ",
+            "VBG"
+        ]
+    },
+    {
+        "5-7": [
+            "JJ",
+            "CD"
+        ]
+    },
+    {
+        "stop": [
+            "NN",
+            "VB"
+        ]
+    },
+    {
+        "Chiefs": [
+            "NNP",
+            "NNPS"
+        ]
+    },
+    {
+        "Command": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "upon": [
+            "RB",
+            "IN"
+        ]
+    }
+]

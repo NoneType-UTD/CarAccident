@@ -1,0 +1,32 @@
+[
+    {
+        "Photo": [
+            "NN",
+            "NNP"
+        ]
+    },
+    {
+        "Reuters": [
+            "NNS",
+            "NNP"
+        ]
+    },
+    {
+        "tampering": [
+            "NN",
+            "VBG"
+        ]
+    },
+    {
+        "rival": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "about": [
+            "IN",
+            "RB"
+        ]
+    }
+]

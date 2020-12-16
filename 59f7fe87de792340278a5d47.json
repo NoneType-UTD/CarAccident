@@ -1,0 +1,164 @@
+[
+    {
+        "dressed": [
+            "VBD",
+            "VBN"
+        ]
+    },
+    {
+        "Lawn": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "Spooky": [
+            "NNP",
+            "JJ"
+        ]
+    },
+    {
+        "carved": [
+            "VBN",
+            "VBD"
+        ]
+    },
+    {
+        "Black": [
+            "NNP",
+            "JJ"
+        ]
+    },
+    {
+        "hung": [
+            "VBP",
+            "VBD"
+        ]
+    },
+    {
+        "webs": [
+            "JJ",
+            "NNS"
+        ]
+    },
+    {
+        "spun": [
+            "NN",
+            "VBD"
+        ]
+    },
+    {
+        "columns": [
+            "NN",
+            "NNS"
+        ]
+    },
+    {
+        "crisp": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "police": [
+            "NN",
+            "NNS"
+        ]
+    },
+    {
+        "individual": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "get": [
+            "NN",
+            "VB"
+        ]
+    },
+    {
+        "Veterans": [
+            "VBZ",
+            "NNP"
+        ]
+    },
+    {
+        "sans": [
+            "VBZ",
+            "NNS"
+        ]
+    },
+    {
+        "brief": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "Kisses": [
+            "NNP",
+            "NNPS"
+        ]
+    },
+    {
+        "crowded": [
+            "VBD",
+            "VBN"
+        ]
+    },
+    {
+        "Historical": [
+            "NNP",
+            "JJ"
+        ]
+    },
+    {
+        "First": [
+            "NNP",
+            "JJ"
+        ]
+    },
+    {
+        "miniature": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "grounds": [
+            "VBZ",
+            "NNS"
+        ]
+    },
+    {
+        "Nixons": [
+            "NNP",
+            "NNPS"
+        ]
+    },
+    {
+        "yearly": [
+            "RB",
+            "JJ"
+        ]
+    },
+    {
+        "treats": [
+            "NNS",
+            "VBZ"
+        ]
+    },
+    {
+        "Obamas": [
+            "NNP",
+            "NNPS"
+        ]
+    },
+    {
+        "dried": [
+            "JJ",
+            "VBN"
+        ]
+    }
+]

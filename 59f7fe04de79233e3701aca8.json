@@ -1,0 +1,38 @@
+[
+    {
+        "ambush": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "shooting": [
+            "VBG",
+            "NN"
+        ]
+    },
+    {
+        "outside": [
+            "JJ",
+            "IN"
+        ]
+    },
+    {
+        "Cotswolds": [
+            "NNP",
+            "NNPS"
+        ]
+    },
+    {
+        "crossing": [
+            "NN",
+            "VBG"
+        ]
+    },
+    {
+        "aide": [
+            "RB",
+            "NN"
+        ]
+    }
+]

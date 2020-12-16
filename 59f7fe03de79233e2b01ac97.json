@@ -1,0 +1,68 @@
+[
+    {
+        "Atomic": [
+            "NNP",
+            "JJ"
+        ]
+    },
+    {
+        "IAEA": [
+            "NNP",
+            "JJ"
+        ]
+    },
+    {
+        "back": [
+            "VB",
+            "RB"
+        ]
+    },
+    {
+        "Reuters": [
+            "NNPS",
+            "NNP"
+        ]
+    },
+    {
+        "reaffirmed": [
+            "VBN",
+            "VBD"
+        ]
+    },
+    {
+        "monitoring": [
+            "NN",
+            "VBG"
+        ]
+    },
+    {
+        "adhering": [
+            "VBG",
+            "JJ"
+        ]
+    },
+    {
+        "state": [
+            "NN",
+            "VB"
+        ]
+    },
+    {
+        "said.Under": [
+            "VBZ",
+            "VB"
+        ]
+    },
+    {
+        "undertook": [
+            "NN",
+            "VBD"
+        ]
+    },
+    {
+        "economy.Amano": [
+            "NN",
+            "NNP"
+        ]
+    }
+]

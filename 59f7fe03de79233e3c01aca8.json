@@ -1,0 +1,110 @@
+[
+    {
+        "CITY": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "PULSE": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "Color": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "Internationally": [
+            "NNP",
+            "RB"
+        ]
+    },
+    {
+        "acclaimed": [
+            "VBD",
+            "JJ"
+        ]
+    },
+    {
+        "artist": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "motifs": [
+            "NN",
+            "NNS"
+        ]
+    },
+    {
+        "Alumnus": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "Arts": [
+            "NNP",
+            "NNS"
+        ]
+    },
+    {
+        "Masters": [
+            "NNS",
+            "NN"
+        ]
+    },
+    {
+        "public": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "art": [
+            "RP",
+            "NN"
+        ]
+    },
+    {
+        "solo": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "021-35831292": [
+            "NN",
+            "CD"
+        ]
+    },
+    {
+        "Olomopolo": [
+            "NNP",
+            "JJ"
+        ]
+    },
+    {
+        "03210-4709178": [
+            "NN",
+            "CD"
+        ]
+    },
+    {
+        "Tangibility": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "021-35250495": [
+            "NN",
+            "CD"
+        ]
+    }
+]

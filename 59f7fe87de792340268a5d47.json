@@ -1,0 +1,86 @@
+[
+    {
+        "Amidst": [
+            "NNP",
+            "IN"
+        ]
+    },
+    {
+        "NFF": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "Pinnick-led": [
+            "NNP",
+            "JJ"
+        ]
+    },
+    {
+        "Appeal": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "Committees": [
+            "NNP",
+            "NNS"
+        ]
+    },
+    {
+        "executive": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "held": [
+            "VBD",
+            "VBN"
+        ]
+    },
+    {
+        "Anti-corruption": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "Transparency": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "Unit": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "battles": [
+            "VBZ",
+            "NNS"
+        ]
+    },
+    {
+        "infighting": [
+            "VBG",
+            "NN"
+        ]
+    },
+    {
+        "chairmen": [
+            "JJ",
+            "NNS"
+        ]
+    },
+    {
+        "Appeals": [
+            "NNP",
+            "NNPS"
+        ]
+    }
+]

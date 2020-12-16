@@ -1,0 +1,26 @@
+[
+    {
+        "UPI": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "European": [
+            "NNP",
+            "JJ"
+        ]
+    },
+    {
+        "Chinese": [
+            "JJ",
+            "NNP"
+        ]
+    },
+    {
+        "agreed": [
+            "JJ",
+            "NN"
+        ]
+    }
+]
