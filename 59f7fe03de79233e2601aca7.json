@@ -1,0 +1,104 @@
+[
+    {
+        "Labour": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "MP": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "request": [
+            "JJS",
+            "NN"
+        ]
+    },
+    {
+        "Disclosure": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "dark": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "prepares": [
+            "NNS",
+            "VBZ"
+        ]
+    },
+    {
+        "break": [
+            "VBP",
+            "VB"
+        ]
+    },
+    {
+        "scheduled": [
+            "JJ",
+            "VBN"
+        ]
+    },
+    {
+        "veteran": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "peer": [
+            "NN",
+            "VBP"
+        ]
+    },
+    {
+        "walks": [
+            "NNS",
+            "VBZ"
+        ]
+    },
+    {
+        "concerns": [
+            "VB",
+            "NNS"
+        ]
+    },
+    {
+        "All": [
+            "PDT",
+            "DT"
+        ]
+    },
+    {
+        "Rescue": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "embarrassed": [
+            "VBN",
+            "JJ"
+        ]
+    },
+    {
+        "called": [
+            "VBD",
+            "VBN"
+        ]
+    },
+    {
+        "Brits": [
+            "NNP",
+            "NNS"
+        ]
+    }
+]
