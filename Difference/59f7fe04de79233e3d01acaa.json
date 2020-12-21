@@ -1,0 +1,56 @@
+[
+    {
+        "more-in": [
+            "NN",
+            "JJR"
+        ]
+    },
+    {
+        "parking": [
+            "VBG",
+            "NN"
+        ]
+    },
+    {
+        "cutting": [
+            "NN",
+            "VBG"
+        ]
+    },
+    {
+        "crore": [
+            "SYM",
+            "NN"
+        ]
+    },
+    {
+        "civic": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "cost": [
+            "NN",
+            "VBD"
+        ]
+    },
+    {
+        "up": [
+            "RB",
+            "IN"
+        ]
+    },
+    {
+        "concerned": [
+            "VBN",
+            "JJ"
+        ]
+    },
+    {
+        "so": [
+            "RB",
+            "IN"
+        ]
+    }
+]

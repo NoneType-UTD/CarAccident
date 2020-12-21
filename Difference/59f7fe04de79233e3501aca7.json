@@ -1,0 +1,62 @@
+[
+    {
+        "Photo": [
+            "NN",
+            "NNP"
+        ]
+    },
+    {
+        "iStockphoto": [
+            "JJ",
+            "NNP"
+        ]
+    },
+    {
+        "Three-fourths": [
+            "CD",
+            "NNS"
+        ]
+    },
+    {
+        "LED": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "bulbs": [
+            "NN",
+            "NNS"
+        ]
+    },
+    {
+        "LED": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "organised": [
+            "JJ",
+            "VBN"
+        ]
+    },
+    {
+        "Indian": [
+            "JJ",
+            "NNP"
+        ]
+    },
+    {
+        "BIS": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "impact": [
+            "JJ",
+            "NN"
+        ]
+    }
+]

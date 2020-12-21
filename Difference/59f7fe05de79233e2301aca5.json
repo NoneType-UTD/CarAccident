@@ -1,0 +1,104 @@
+[
+    {
+        "bed": [
+            "VB",
+            "NN"
+        ]
+    },
+    {
+        "early": [
+            "JJ",
+            "RB"
+        ]
+    },
+    {
+        "bed": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "that": [
+            "WDT",
+            "DT"
+        ]
+    },
+    {
+        "Photo": [
+            "NN",
+            "NNP"
+        ]
+    },
+    {
+        "iStock": [
+            "NN",
+            "NNP"
+        ]
+    },
+    {
+        "Advertisement": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "So": [
+            "NNP",
+            "RB"
+        ]
+    },
+    {
+        "want": [
+            "VBP",
+            "VB"
+        ]
+    },
+    {
+        "SHARE": [
+            "NNP",
+            "VB"
+        ]
+    },
+    {
+        "Share": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "sleep": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "nap": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "bit": [
+            "RB",
+            "NN"
+        ]
+    },
+    {
+        "worth": [
+            "IN",
+            "NN"
+        ]
+    },
+    {
+        "suggest": [
+            "VB",
+            "VBP"
+        ]
+    },
+    {
+        "drinking": [
+            "VBG",
+            "NN"
+        ]
+    }
+]

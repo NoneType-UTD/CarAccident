@@ -1,0 +1,80 @@
+[
+    {
+        "alternate": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "rape": [
+            "VB",
+            "NN"
+        ]
+    },
+    {
+        "better": [
+            "RB",
+            "JJR"
+        ]
+    },
+    {
+        "ASIs": [
+            "NNP",
+            "NNS"
+        ]
+    },
+    {
+        "SHC": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "assistant": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "ASI": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "son/shaheed": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "invoking": [
+            "NN",
+            "VBG"
+        ]
+    },
+    {
+        "Rule": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "11-A": [
+            "CD",
+            "NN"
+        ]
+    },
+    {
+        "Rules": [
+            "VBZ",
+            "NNS"
+        ]
+    },
+    {
+        "right": [
+            "RB",
+            "JJ"
+        ]
+    }
+]

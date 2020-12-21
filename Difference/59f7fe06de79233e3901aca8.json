@@ -1,0 +1,170 @@
+[
+    {
+        "MUSIC": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "Jazz": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "Jazz": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "Epistles": [
+            "NNP",
+            "VBZ"
+        ]
+    },
+    {
+        "Ala.Ni": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "musician": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "Bonobo": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "rhythms": [
+            "NN",
+            "NNS"
+        ]
+    },
+    {
+        "Cuban": [
+            "NNP",
+            "JJ"
+        ]
+    },
+    {
+        "saxophonist": [
+            "VBP",
+            "NNP"
+        ]
+    },
+    {
+        "festival": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "Evrencan": [
+            "JJ",
+            "NNP"
+        ]
+    },
+    {
+        "Jazz": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "Jazz": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "share": [
+            "NN",
+            "VB"
+        ]
+    },
+    {
+        "Workshops": [
+            "NNP",
+            "NNS"
+        ]
+    },
+    {
+        "High": [
+            "NNP",
+            "JJ"
+        ]
+    },
+    {
+        "Schools": [
+            "NNP",
+            "NNS"
+        ]
+    },
+    {
+        "better.As": [
+            "VBP",
+            "NNS"
+        ]
+    },
+    {
+        "State": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "project": [
+            "VBP",
+            "NN"
+        ]
+    },
+    {
+        "volunteer": [
+            "JJ",
+            "VBP"
+        ]
+    },
+    {
+        "Pozitif": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "Seed": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "Performing": [
+            "NNP",
+            "VBG"
+        ]
+    },
+    {
+        "Arts": [
+            "NNP",
+            "NNS"
+        ]
+    },
+    {
+        "Center.Tickets": [
+            "NNP",
+            "NNS"
+        ]
+    },
+    {
+        "27th": [
+            "CD",
+            "JJ"
+        ]
+    }
+]

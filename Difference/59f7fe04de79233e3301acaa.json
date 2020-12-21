@@ -1,0 +1,80 @@
+[
+    {
+        "heavyweight": [
+            "VBD",
+            "JJ"
+        ]
+    },
+    {
+        "Sagamu": [
+            "NNP",
+            "FW"
+        ]
+    },
+    {
+        "exciting": [
+            "VBG",
+            "JJ"
+        ]
+    },
+    {
+        "annals": [
+            "NNS",
+            "NN"
+        ]
+    },
+    {
+        "Sagamu": [
+            "NNP",
+            "FW"
+        ]
+    },
+    {
+        "that": [
+            "IN",
+            "WDT"
+        ]
+    },
+    {
+        "chosen": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "let": [
+            "VBP",
+            "VBD"
+        ]
+    },
+    {
+        "behind": [
+            "VB",
+            "IN"
+        ]
+    },
+    {
+        "outfits": [
+            "NNS",
+            "NN"
+        ]
+    },
+    {
+        "rewritten": [
+            "VB",
+            "VBN"
+        ]
+    },
+    {
+        "express": [
+            "NN",
+            "VBP"
+        ]
+    },
+    {
+        "Visited": [
+            "VBD",
+            "VBN"
+        ]
+    }
+]

@@ -1,0 +1,998 @@
+[
+    {
+        "Photograph": [
+            "NN",
+            "NNP"
+        ]
+    },
+    {
+        "outcast": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "Scumbrians": [
+            "NNPS",
+            "NNS"
+        ]
+    },
+    {
+        "bassist": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "father": [
+            "PRP$",
+            "NN"
+        ]
+    },
+    {
+        "round": [
+            "VBN",
+            "JJ"
+        ]
+    },
+    {
+        "singer": [
+            "JJR",
+            "NN"
+        ]
+    },
+    {
+        "armfuls": [
+            "NN",
+            "NNS"
+        ]
+    },
+    {
+        "tattoos": [
+            "NN",
+            "NNS"
+        ]
+    },
+    {
+        "NHS": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "breathtaking": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "punk-rock": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "Kill": [
+            "NNP",
+            "VB"
+        ]
+    },
+    {
+        "proper": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "punk": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "Ramones": [
+            "NNP",
+            "NNPS"
+        ]
+    },
+    {
+        "on": [
+            "IN",
+            "RP"
+        ]
+    },
+    {
+        "Kill": [
+            "NNP",
+            "VB"
+        ]
+    },
+    {
+        "rowdy": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "Top": [
+            "NNP",
+            "JJ"
+        ]
+    },
+    {
+        "speed": [
+            "NN",
+            "VB"
+        ]
+    },
+    {
+        "Guitarist": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "Ramones": [
+            "NNP",
+            "NNPS"
+        ]
+    },
+    {
+        "gig": [
+            "VBD",
+            "NN"
+        ]
+    },
+    {
+        "Nuclear": [
+            "NNP",
+            "JJ"
+        ]
+    },
+    {
+        "Threat": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "CUNT": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "one": [
+            "NN",
+            "PRP"
+        ]
+    },
+    {
+        "T-shirt": [
+            "NNP",
+            "NNS"
+        ]
+    },
+    {
+        "Scumbrians": [
+            "NNPS",
+            "NNP"
+        ]
+    },
+    {
+        "Raging": [
+            "VBG",
+            "JJ"
+        ]
+    },
+    {
+        "My": [
+            "NNP",
+            "PRP$"
+        ]
+    },
+    {
+        "offstage": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "text": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "fired": [
+            "JJ",
+            "VBN"
+        ]
+    },
+    {
+        "Scumbrians": [
+            "NNPS",
+            "NNP"
+        ]
+    },
+    {
+        "No": [
+            "NNP",
+            "DT"
+        ]
+    },
+    {
+        "Thrills": [
+            "NNP",
+            "NNS"
+        ]
+    },
+    {
+        "Hexed": [
+            "NNP",
+            "JJ"
+        ]
+    },
+    {
+        "Rebellion": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "honest": [
+            "JJS",
+            "JJ"
+        ]
+    },
+    {
+        "speaks": [
+            "NNS",
+            "VBZ"
+        ]
+    },
+    {
+        "forgotten": [
+            "JJ",
+            "VBN"
+        ]
+    },
+    {
+        "considers": [
+            "NNS",
+            "VBZ"
+        ]
+    },
+    {
+        "Photograph": [
+            "NN",
+            "NNP"
+        ]
+    },
+    {
+        "No": [
+            "NNP",
+            "DT"
+        ]
+    },
+    {
+        "dick": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "charming": [
+            "VBG",
+            "JJ"
+        ]
+    },
+    {
+        "run": [
+            "VBN",
+            "VBP"
+        ]
+    },
+    {
+        "label": [
+            "CC",
+            "NN"
+        ]
+    },
+    {
+        "polished": [
+            "VBD",
+            "VBN"
+        ]
+    },
+    {
+        "Big": [
+            "NNP",
+            "JJ"
+        ]
+    },
+    {
+        "Wow": [
+            "NNP",
+            "UH"
+        ]
+    },
+    {
+        "located": [
+            "VBN",
+            "JJ"
+        ]
+    },
+    {
+        "Plot": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "Audacious": [
+            "NNP",
+            "JJ"
+        ]
+    },
+    {
+        "Art": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "Experiment": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "TAAE": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "dinky": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "raves": [
+            "NNS",
+            "VBZ"
+        ]
+    },
+    {
+        "gigs": [
+            "VB",
+            "NNS"
+        ]
+    },
+    {
+        "TAAE": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "offer": [
+            "NN",
+            "VB"
+        ]
+    },
+    {
+        "gig": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "tolerated": [
+            "VBD",
+            "VBN"
+        ]
+    },
+    {
+        "enforced": [
+            "VBN",
+            "JJ"
+        ]
+    },
+    {
+        "away": [
+            "RP",
+            "RB"
+        ]
+    },
+    {
+        "door": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "donated": [
+            "JJ",
+            "VBN"
+        ]
+    },
+    {
+        "share": [
+            "NN",
+            "VBP"
+        ]
+    },
+    {
+        "building": [
+            "NN",
+            "VBG"
+        ]
+    },
+    {
+        "open": [
+            "VBP",
+            "VB"
+        ]
+    },
+    {
+        "Photograph": [
+            "NN",
+            "NNP"
+        ]
+    },
+    {
+        "rap": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "east": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "rapper": [
+            "JJR",
+            "NN"
+        ]
+    },
+    {
+        "collective": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "MCs": [
+            "NNP",
+            "NNS"
+        ]
+    },
+    {
+        "Lans": [
+            "NNS",
+            "NNP"
+        ]
+    },
+    {
+        "drums": [
+            "VBP",
+            "NNS"
+        ]
+    },
+    {
+        "6ft": [
+            "CD",
+            "JJ"
+        ]
+    },
+    {
+        "7in": [
+            "CD",
+            "JJ"
+        ]
+    },
+    {
+        "MC": [
+            "NN",
+            "NNP"
+        ]
+    },
+    {
+        "striking": [
+            "VBG",
+            "JJ"
+        ]
+    },
+    {
+        "Oraka": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "Three": [
+            "NNP",
+            "CD"
+        ]
+    },
+    {
+        "institute": [
+            "VBP",
+            "NN"
+        ]
+    },
+    {
+        "up": [
+            "RP",
+            "RB"
+        ]
+    },
+    {
+        "bubble": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "latter": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "Bax": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "so": [
+            "IN",
+            "RB"
+        ]
+    },
+    {
+        "drinking": [
+            "VBG",
+            "NN"
+        ]
+    },
+    {
+        "on": [
+            "IN",
+            "RP"
+        ]
+    },
+    {
+        "grime": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "listen": [
+            "VBN",
+            "VB"
+        ]
+    },
+    {
+        "rubbish": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "My": [
+            "NNP",
+            "PRP$"
+        ]
+    },
+    {
+        "that": [
+            "DT",
+            "IN"
+        ]
+    },
+    {
+        "Deezkid": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "disparate": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "Bax": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "mum": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "African": [
+            "NNP",
+            "JJ"
+        ]
+    },
+    {
+        "reggae": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "ukulele": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "vibrant": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "codhead": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "Big": [
+            "NNP",
+            "JJ"
+        ]
+    },
+    {
+        "become": [
+            "VB",
+            "VBP"
+        ]
+    },
+    {
+        "Photograph": [
+            "NN",
+            "NNP"
+        ]
+    },
+    {
+        "kept": [
+            "VBD",
+            "VBN"
+        ]
+    },
+    {
+        "Makinarium": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "Musical": [
+            "NNP",
+            "JJ"
+        ]
+    },
+    {
+        "Ever": [
+            "NNP",
+            "RB"
+        ]
+    },
+    {
+        "makina": [
+            "NN",
+            "NNP"
+        ]
+    },
+    {
+        "Eurotrance": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "MCing": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "north-east": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "late-90s": [
+            "NN",
+            "CD"
+        ]
+    },
+    {
+        "makina": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "boasts": [
+            "NNS",
+            "VBZ"
+        ]
+    },
+    {
+        "People": [
+            "NNP",
+            "NNS"
+        ]
+    },
+    {
+        "listen": [
+            "VBZ",
+            "VBP"
+        ]
+    },
+    {
+        "MCs": [
+            "NNP",
+            "NNS"
+        ]
+    },
+    {
+        "get": [
+            "NN",
+            "VB"
+        ]
+    },
+    {
+        "much": [
+            "JJ",
+            "RB"
+        ]
+    },
+    {
+        "kept": [
+            "VBD",
+            "VBN"
+        ]
+    },
+    {
+        "MCs": [
+            "NNP",
+            "NNS"
+        ]
+    },
+    {
+        "stripped": [
+            "JJ",
+            "VBN"
+        ]
+    },
+    {
+        "down": [
+            "IN",
+            "RP"
+        ]
+    },
+    {
+        "MCs": [
+            "NNP",
+            "NNS"
+        ]
+    },
+    {
+        "vinyl": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "Rockeye": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "off": [
+            "IN",
+            "RP"
+        ]
+    },
+    {
+        "outside": [
+            "JJ",
+            "IN"
+        ]
+    },
+    {
+        "rave": [
+            "NN",
+            "VBP"
+        ]
+    },
+    {
+        "booking": [
+            "NN",
+            "VBG"
+        ]
+    },
+    {
+        "got": [
+            "VBD",
+            "VBN"
+        ]
+    },
+    {
+        "make": [
+            "VBP",
+            "VB"
+        ]
+    },
+    {
+        "though": [
+            "IN",
+            "RB"
+        ]
+    },
+    {
+        "Photograph": [
+            "NN",
+            "NNP"
+        ]
+    },
+    {
+        "underground": [
+            "IN",
+            "JJ"
+        ]
+    },
+    {
+        "down": [
+            "RP",
+            "IN"
+        ]
+    },
+    {
+        "post-Mumford": [
+            "NN",
+            "NNP"
+        ]
+    },
+    {
+        "earnest": [
+            "JJS",
+            "JJ"
+        ]
+    },
+    {
+        "folk": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "empowerment": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "agree": [
+            "NN",
+            "VBP"
+        ]
+    },
+    {
+        "PA": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "nicknamed": [
+            "VBD",
+            "VBN"
+        ]
+    },
+    {
+        "Tower": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "streets": [
+            "VBZ",
+            "NNS"
+        ]
+    },
+    {
+        "Inclusivity": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "on": [
+            "IN",
+            "RP"
+        ]
+    },
+    {
+        "challenging": [
+            "VBG",
+            "JJ"
+        ]
+    },
+    {
+        "down": [
+            "RP",
+            "IN"
+        ]
+    },
+    {
+        "pub": [
+            "VBZ",
+            "NN"
+        ]
+    },
+    {
+        "flooding": [
+            "VBG",
+            "NN"
+        ]
+    },
+    {
+        "Gnod": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "Musician": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "Golden": [
+            "JJ",
+            "NNP"
+        ]
+    },
+    {
+        "regular": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "departed": [
+            "JJ",
+            "VBN"
+        ]
+    },
+    {
+        "freaky": [
+            "NN",
+            "JJ"
+        ]
+    }
+]

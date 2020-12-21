@@ -1,0 +1,62 @@
+[
+    {
+        "About": [
+            "NNP",
+            "IN"
+        ]
+    },
+    {
+        "Delivery": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "Monitoring": [
+            "NNP",
+            "VBG"
+        ]
+    },
+    {
+        "forthcoming": [
+            "VBG",
+            "JJ"
+        ]
+    },
+    {
+        "statutory": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "N1tn": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "up": [
+            "RB",
+            "IN"
+        ]
+    },
+    {
+        "till": [
+            "VB",
+            "IN"
+        ]
+    },
+    {
+        "rewritten": [
+            "VB",
+            "VBN"
+        ]
+    },
+    {
+        "express": [
+            "NN",
+            "VBP"
+        ]
+    }
+]

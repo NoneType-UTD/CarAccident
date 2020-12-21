@@ -1,0 +1,56 @@
+[
+    {
+        "BBL": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "Transition": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "MN": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "fast-track": [
+            "VB",
+            "JJ"
+        ]
+    },
+    {
+        "impatient": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "Sabi": [
+            "NNP",
+            "FW"
+        ]
+    },
+    {
+        "ko": [
+            "NN",
+            "FW"
+        ]
+    },
+    {
+        "sandali": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "general": [
+            "NN",
+            "JJ"
+        ]
+    }
+]

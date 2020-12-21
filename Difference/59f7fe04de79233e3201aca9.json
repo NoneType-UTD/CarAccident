@@ -1,0 +1,32 @@
+[
+    {
+        "NEW": [
+            "JJ",
+            "NNP"
+        ]
+    },
+    {
+        "PIL": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "charging": [
+            "NN",
+            "VBG"
+        ]
+    },
+    {
+        "SDMC": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "standing": [
+            "VBG",
+            "NN"
+        ]
+    }
+]

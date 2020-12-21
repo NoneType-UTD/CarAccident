@@ -1,0 +1,182 @@
+[
+    {
+        "resident": [
+            "VBN",
+            "JJ"
+        ]
+    },
+    {
+        "most": [
+            "JJS",
+            "RBS"
+        ]
+    },
+    {
+        "late-comer": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "youth": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "latter": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "leverage": [
+            "VB",
+            "NN"
+        ]
+    },
+    {
+        "agro": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "yearly": [
+            "RB",
+            "JJ"
+        ]
+    },
+    {
+        "3-5": [
+            "JJ",
+            "CD"
+        ]
+    },
+    {
+        "monopoly": [
+            "VBN",
+            "NN"
+        ]
+    },
+    {
+        "estimated": [
+            "JJ",
+            "VBN"
+        ]
+    },
+    {
+        "calorie": [
+            "NNS",
+            "NN"
+        ]
+    },
+    {
+        "intake": [
+            "VBP",
+            "NN"
+        ]
+    },
+    {
+        "fertile": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "There": [
+            "EX",
+            "RB"
+        ]
+    },
+    {
+        "agro-TNCs": [
+            "NN",
+            "NNS"
+        ]
+    },
+    {
+        "needs": [
+            "NNS",
+            "VBZ"
+        ]
+    },
+    {
+        "TK-driven": [
+            "NNP",
+            "JJ"
+        ]
+    },
+    {
+        "climate": [
+            "VB",
+            "NN"
+        ]
+    },
+    {
+        "ICTs": [
+            "NNP",
+            "NNS"
+        ]
+    },
+    {
+        "bridge": [
+            "VB",
+            "NN"
+        ]
+    },
+    {
+        "havocs": [
+            "NN",
+            "NNS"
+        ]
+    },
+    {
+        "self-serving": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "Talks": [
+            "NNP",
+            "NNS"
+        ]
+    },
+    {
+        "Future": [
+            "NN",
+            "NNP"
+        ]
+    },
+    {
+        "Follow": [
+            "IN",
+            "VB"
+        ]
+    },
+    {
+        "Copyright": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "PUNCH": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "rewritten": [
+            "VB",
+            "VBN"
+        ]
+    },
+    {
+        "express": [
+            "NN",
+            "VBP"
+        ]
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "The": [
+            "DT",
+            "NNP"
+        ]
+    },
+    {
+        "Nigerian": [
+            "JJ",
+            "NNP"
+        ]
+    },
+    {
+        "NCMDF": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "generate": [
+            "NN",
+            "VB"
+        ]
+    },
+    {
+        "facilitate": [
+            "VBP",
+            "VB"
+        ]
+    },
+    {
+        "undertake": [
+            "JJ",
+            "VB"
+        ]
+    },
+    {
+        "rewritten": [
+            "VB",
+            "VBN"
+        ]
+    },
+    {
+        "express": [
+            "NN",
+            "VBP"
+        ]
+    }
+]

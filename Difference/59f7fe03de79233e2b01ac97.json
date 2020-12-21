@@ -1,0 +1,44 @@
+[
+    {
+        "Reuters": [
+            "NNPS",
+            "NNP"
+        ]
+    },
+    {
+        "reaffirmed": [
+            "VBN",
+            "VBD"
+        ]
+    },
+    {
+        "back": [
+            "VB",
+            "RB"
+        ]
+    },
+    {
+        "monitoring": [
+            "NN",
+            "VBG"
+        ]
+    },
+    {
+        "said.Under": [
+            "VBZ",
+            "VB"
+        ]
+    },
+    {
+        "undertook": [
+            "NN",
+            "VBD"
+        ]
+    },
+    {
+        "towards": [
+            "NNS",
+            "IN"
+        ]
+    }
+]

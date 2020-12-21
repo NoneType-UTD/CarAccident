@@ -1,0 +1,26 @@
+[
+    {
+        "killed": [
+            "VBD",
+            "VBN"
+        ]
+    },
+    {
+        "ambush": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "Cotswolds": [
+            "NNP",
+            "NNPS"
+        ]
+    },
+    {
+        "crossing": [
+            "NN",
+            "VBG"
+        ]
+    }
+]

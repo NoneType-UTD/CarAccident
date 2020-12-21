@@ -1,0 +1,98 @@
+[
+    {
+        "behind": [
+            "RB",
+            "IN"
+        ]
+    },
+    {
+        "coloured": [
+            "JJ",
+            "VBN"
+        ]
+    },
+    {
+        "Commercial": [
+            "JJ",
+            "NNP"
+        ]
+    },
+    {
+        "unassuming": [
+            "VBG",
+            "JJ"
+        ]
+    },
+    {
+        "stomach-turning": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "abuse": [
+            "IN",
+            "NN"
+        ]
+    },
+    {
+        "ends": [
+            "VBZ",
+            "NNS"
+        ]
+    },
+    {
+        "there": [
+            "EX",
+            "RB"
+        ]
+    },
+    {
+        "guys": [
+            "JJ",
+            "NNS"
+        ]
+    },
+    {
+        "spaghetti": [
+            "JJ",
+            "NNS"
+        ]
+    },
+    {
+        "away": [
+            "RP",
+            "RB"
+        ]
+    },
+    {
+        "more": [
+            "JJR",
+            "RBR"
+        ]
+    },
+    {
+        "more": [
+            "RBR",
+            "JJR"
+        ]
+    },
+    {
+        "headlong": [
+            "NN",
+            "RB"
+        ]
+    },
+    {
+        "sheer": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "hard": [
+            "JJ",
+            "RB"
+        ]
+    }
+]

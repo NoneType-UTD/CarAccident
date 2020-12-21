@@ -1,0 +1,80 @@
+[
+    {
+        "along": [
+            "RB",
+            "IN"
+        ]
+    },
+    {
+        "seem": [
+            "VBP",
+            "VB"
+        ]
+    },
+    {
+        "seem": [
+            "VBP",
+            "VB"
+        ]
+    },
+    {
+        "Westdene": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "stab": [
+            "NNS",
+            "NN"
+        ]
+    },
+    {
+        "parked": [
+            "JJ",
+            "VBN"
+        ]
+    },
+    {
+        "tuk-tuk": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "R26000": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "her": [
+            "PRP$",
+            "PRP"
+        ]
+    },
+    {
+        "brazen": [
+            "JJ",
+            "VB"
+        ]
+    },
+    {
+        "robbed": [
+            "VBD",
+            "VBN"
+        ]
+    },
+    {
+        "occurred": [
+            "VBN",
+            "VBD"
+        ]
+    },
+    {
+        "Star": [
+            "NNP",
+            "NN"
+        ]
+    }
+]

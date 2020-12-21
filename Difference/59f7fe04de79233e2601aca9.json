@@ -1,0 +1,98 @@
+[
+    {
+        "British": [
+            "VB",
+            "JJ"
+        ]
+    },
+    {
+        "concerned": [
+            "VBN",
+            "JJ"
+        ]
+    },
+    {
+        "below": [
+            "JJ",
+            "RB"
+        ]
+    },
+    {
+        "result": [
+            "NN",
+            "VB"
+        ]
+    },
+    {
+        "digital": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "Para": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "Paralympic": [
+            "NNP",
+            "JJ"
+        ]
+    },
+    {
+        "form": [
+            "NN",
+            "VBP"
+        ]
+    },
+    {
+        "T30s": [
+            "NNP",
+            "NNS"
+        ]
+    },
+    {
+        "athletes": [
+            "VBZ",
+            "NNS"
+        ]
+    },
+    {
+        "T42-44": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "Ahead": [
+            "NN",
+            "NNP"
+        ]
+    },
+    {
+        "preserve": [
+            "NN",
+            "VB"
+        ]
+    },
+    {
+        "governing": [
+            "NN",
+            "VBG"
+        ]
+    },
+    {
+        "strengthen": [
+            "NN",
+            "VB"
+        ]
+    },
+    {
+        "59th": [
+            "CD",
+            "JJ"
+        ]
+    }
+]

@@ -1,0 +1,134 @@
+[
+    {
+        "Arabian": [
+            "JJ",
+            "NNP"
+        ]
+    },
+    {
+        "inland": [
+            "NN",
+            "RB"
+        ]
+    },
+    {
+        "creeks": [
+            "NN",
+            "NNS"
+        ]
+    },
+    {
+        "waterlogged": [
+            "VBN",
+            "JJ"
+        ]
+    },
+    {
+        "reduces": [
+            "NNS",
+            "VBZ"
+        ]
+    },
+    {
+        "earlier": [
+            "RBR",
+            "RB"
+        ]
+    },
+    {
+        "watches": [
+            "NNS",
+            "VBZ"
+        ]
+    },
+    {
+        "earthen": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "sea": [
+            "VB",
+            "NN"
+        ]
+    },
+    {
+        "used": [
+            "VBN",
+            "VBD"
+        ]
+    },
+    {
+        "square": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "mudflat": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "creeks": [
+            "NN",
+            "NNS"
+        ]
+    },
+    {
+        "rely": [
+            "RB",
+            "VBP"
+        ]
+    },
+    {
+        "damaged": [
+            "VBD",
+            "VBN"
+        ]
+    },
+    {
+        "states": [
+            "NNS",
+            "VBZ"
+        ]
+    },
+    {
+        "saltwater": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "Climate": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "Focused": [
+            "VBD",
+            "NNP"
+        ]
+    },
+    {
+        "tidal": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "more": [
+            "JJR",
+            "RBR"
+        ]
+    },
+    {
+        "saltwater": [
+            "JJ",
+            "NN"
+        ]
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "Police": [
+            "NNP",
+            "NNS"
+        ]
+    },
+    {
+        "arrest": [
+            "VBD",
+            "VB"
+        ]
+    },
+    {
+        "grisly": [
+            "RB",
+            "JJ"
+        ]
+    },
+    {
+        "missing": [
+            "JJ",
+            "VBG"
+        ]
+    },
+    {
+        "A": [
+            "NNP",
+            "DT"
+        ]
+    },
+    {
+        "stored": [
+            "VBN",
+            "VBD"
+        ]
+    },
+    {
+        "find": [
+            "NN",
+            "VB"
+        ]
+    }
+]

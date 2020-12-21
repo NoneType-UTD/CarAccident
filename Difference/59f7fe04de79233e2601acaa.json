@@ -1,0 +1,74 @@
+[
+    {
+        "Husband-and-wife": [
+            "NNP",
+            "JJ"
+        ]
+    },
+    {
+        "fought": [
+            "NN",
+            "VBN"
+        ]
+    },
+    {
+        "east": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "A": [
+            "NNP",
+            "DT"
+        ]
+    },
+    {
+        "prospect": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "Read": [
+            "NNP",
+            "VB"
+        ]
+    },
+    {
+        "more": [
+            "RBR",
+            "JJR"
+        ]
+    },
+    {
+        "bombing": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "Read": [
+            "NNP",
+            "VB"
+        ]
+    },
+    {
+        "bodyguard": [
+            "RB",
+            "NN"
+        ]
+    },
+    {
+        "died": [
+            "VBN",
+            "VBD"
+        ]
+    },
+    {
+        "both": [
+            "DT",
+            "CC"
+        ]
+    }
+]

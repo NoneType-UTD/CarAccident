@@ -1,0 +1,32 @@
+[
+    {
+        "ICST": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "Small": [
+            "NNP",
+            "JJ"
+        ]
+    },
+    {
+        "Traders": [
+            "NNP",
+            "NNS"
+        ]
+    },
+    {
+        "Small": [
+            "NNP",
+            "JJ"
+        ]
+    },
+    {
+        "forwarding": [
+            "VBG",
+            "NN"
+        ]
+    }
+]

@@ -1,0 +1,152 @@
+[
+    {
+        "HPCL": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "Photo": [
+            "NN",
+            "NNP"
+        ]
+    },
+    {
+        "Reuters": [
+            "NNPS",
+            "NNP"
+        ]
+    },
+    {
+        "Oil": [
+            "NN",
+            "NNP"
+        ]
+    },
+    {
+        "first": [
+            "RB",
+            "JJ"
+        ]
+    },
+    {
+        "HPCL": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "HPCL": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "constrained": [
+            "JJ",
+            "VBN"
+        ]
+    },
+    {
+        "Baa2": [
+            "NNP",
+            "JJ"
+        ]
+    },
+    {
+        "first": [
+            "RB",
+            "JJ"
+        ]
+    },
+    {
+        "limited": [
+            "JJ",
+            "VBN"
+        ]
+    },
+    {
+        "downstream": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "EBITDA": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "downstream": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "overlap": [
+            "NN",
+            "VBP"
+        ]
+    },
+    {
+        "petrochemical": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "established": [
+            "VBD",
+            "JJ"
+        ]
+    },
+    {
+        "that": [
+            "DT",
+            "IN"
+        ]
+    },
+    {
+        "post": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "pro-forma": [
+            "JJ",
+            "FW"
+        ]
+    },
+    {
+        "retained": [
+            "JJ",
+            "VBN"
+        ]
+    },
+    {
+        "RCF": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "integrated": [
+            "JJ",
+            "VBN"
+        ]
+    },
+    {
+        "pro-forma": [
+            "JJ",
+            "FW"
+        ]
+    },
+    {
+        "Baa1": [
+            "NNP",
+            "NN"
+        ]
+    }
+]

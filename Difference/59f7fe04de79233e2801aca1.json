@@ -1,0 +1,140 @@
+[
+    {
+        "earlier": [
+            "RBR",
+            "JJR"
+        ]
+    },
+    {
+        "dissolved": [
+            "VBN",
+            "VBD"
+        ]
+    },
+    {
+        "Catalan": [
+            "NNP",
+            "JJ"
+        ]
+    },
+    {
+        "police": [
+            "NNS",
+            "NN"
+        ]
+    },
+    {
+        "d'Esquadra": [
+            "NN",
+            "NNP"
+        ]
+    },
+    {
+        "medieval": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "dia": [
+            "NN",
+            "FW"
+        ]
+    },
+    {
+        "criminal": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "PP": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "covered": [
+            "VBD",
+            "VBN"
+        ]
+    },
+    {
+        "Catalan": [
+            "NNP",
+            "JJ"
+        ]
+    },
+    {
+        "pro-union": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "around": [
+            "IN",
+            "RP"
+        ]
+    },
+    {
+        "crowd": [
+            "NNS",
+            "NN"
+        ]
+    },
+    {
+        "down": [
+            "RP",
+            "IN"
+        ]
+    },
+    {
+        "crowds": [
+            "NN",
+            "NNS"
+        ]
+    },
+    {
+        "Will": [
+            "VBP",
+            "MD"
+        ]
+    },
+    {
+        "Vote": [
+            "NNP",
+            "VB"
+        ]
+    },
+    {
+        "Puigdemont": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "Go": [
+            "NNP",
+            "VB"
+        ]
+    },
+    {
+        "holding": [
+            "VBG",
+            "NN"
+        ]
+    },
+    {
+        "Voted": [
+            "NNP",
+            "VBN"
+        ]
+    },
+    {
+        "Junqueras": [
+            "NNP",
+            "FW"
+        ]
+    }
+]

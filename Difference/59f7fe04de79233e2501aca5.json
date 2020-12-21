@@ -1,0 +1,26 @@
+[
+    {
+        "franchises": [
+            "VBZ",
+            "NNS"
+        ]
+    },
+    {
+        "PSL": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "PSL": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "Final": [
+            "NNP",
+            "JJ"
+        ]
+    }
+]

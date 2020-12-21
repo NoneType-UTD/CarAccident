@@ -1,0 +1,44 @@
+[
+    {
+        "ABL": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "en": [
+            "FW",
+            "IN"
+        ]
+    },
+    {
+        "said": [
+            "VBD",
+            "VBN"
+        ]
+    },
+    {
+        "that": [
+            "DT",
+            "IN"
+        ]
+    },
+    {
+        "manner": [
+            "VB",
+            "NN"
+        ]
+    },
+    {
+        "rewritten": [
+            "VB",
+            "VBN"
+        ]
+    },
+    {
+        "express": [
+            "NN",
+            "VBP"
+        ]
+    }
+]

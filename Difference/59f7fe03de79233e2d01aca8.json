@@ -1,0 +1,110 @@
+[
+    {
+        "Islamabad": [
+            "NNS",
+            "NNP"
+        ]
+    },
+    {
+        "that": [
+            "DT",
+            "IN"
+        ]
+    },
+    {
+        "there": [
+            "EX",
+            "RB"
+        ]
+    },
+    {
+        "Gen": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "ul": [
+            "JJ",
+            "NNP"
+        ]
+    },
+    {
+        "citizen": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "mauve": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "above": [
+            "RB",
+            "IN"
+        ]
+    },
+    {
+        "News": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "said": [
+            "VBD",
+            "VBN"
+        ]
+    },
+    {
+        "mulberry": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "ruling": [
+            "VBG",
+            "NN"
+        ]
+    },
+    {
+        "elite": [
+            "RB",
+            "NN"
+        ]
+    },
+    {
+        "parallel": [
+            "RB",
+            "NN"
+        ]
+    },
+    {
+        "both": [
+            "DT",
+            "CC"
+        ]
+    },
+    {
+        "enter": [
+            "NN",
+            "VB"
+        ]
+    },
+    {
+        "hence": [
+            "NN",
+            "RB"
+        ]
+    },
+    {
+        "Alas": [
+            "NNP",
+            "RB"
+        ]
+    }
+]

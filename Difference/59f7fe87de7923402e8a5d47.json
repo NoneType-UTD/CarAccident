@@ -1,0 +1,128 @@
+[
+    {
+        "Photo": [
+            "NN",
+            "NNP"
+        ]
+    },
+    {
+        "Republic": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "DRC": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "conflict-ravaged": [
+            "VBD",
+            "JJ"
+        ]
+    },
+    {
+        "As": [
+            "RB",
+            "IN"
+        ]
+    },
+    {
+        "enough": [
+            "RB",
+            "JJ"
+        ]
+    },
+    {
+        "WFP": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "end-December": [
+            "JJ",
+            "NNP"
+        ]
+    },
+    {
+        "early": [
+            "RB",
+            "JJ"
+        ]
+    },
+    {
+        "off-road": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "remote": [
+            "VB",
+            "JJ"
+        ]
+    },
+    {
+        "militias": [
+            "NN",
+            "NNS"
+        ]
+    },
+    {
+        "brave": [
+            "NN",
+            "VBP"
+        ]
+    },
+    {
+        "brighter": [
+            "NN",
+            "JJR"
+        ]
+    },
+    {
+        "heart-breaking": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "donor": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "Congolese": [
+            "NNP",
+            "JJ"
+        ]
+    },
+    {
+        "brave": [
+            "NN",
+            "VBP"
+        ]
+    },
+    {
+        "brighter": [
+            "NN",
+            "JJR"
+        ]
+    },
+    {
+        "Government": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "come": [
+            "NN",
+            "VBN"
+        ]
+    }
+]

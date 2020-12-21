@@ -1,0 +1,26 @@
+[
+    {
+        "hidden": [
+            "JJ",
+            "VBN"
+        ]
+    },
+    {
+        "total": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "laundering": [
+            "VBG",
+            "NN"
+        ]
+    },
+    {
+        "recusal": [
+            "NN",
+            "JJ"
+        ]
+    }
+]

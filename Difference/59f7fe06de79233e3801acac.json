@@ -1,0 +1,176 @@
+[
+    {
+        "Soviet-era": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "Tatar": [
+            "NNP",
+            "JJ"
+        ]
+    },
+    {
+        "Memorial": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "Terror": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "Roman": [
+            "NNP",
+            "JJ"
+        ]
+    },
+    {
+        "remembering": [
+            "NN",
+            "VBG"
+        ]
+    },
+    {
+        "dark": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "Advertisement": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "Continue": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "long": [
+            "JJ",
+            "RB"
+        ]
+    },
+    {
+        "down": [
+            "RB",
+            "RP"
+        ]
+    },
+    {
+        "faces": [
+            "VBZ",
+            "NNS"
+        ]
+    },
+    {
+        "figures": [
+            "VBZ",
+            "NNS"
+        ]
+    },
+    {
+        "Newsletter": [
+            "NN",
+            "NNP"
+        ]
+    },
+    {
+        "Up": [
+            "NNP",
+            "IN"
+        ]
+    },
+    {
+        "shot": [
+            "NN",
+            "VBN"
+        ]
+    },
+    {
+        "there": [
+            "RB",
+            "EX"
+        ]
+    },
+    {
+        "memorial": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "estimated": [
+            "JJ",
+            "VBN"
+        ]
+    },
+    {
+        "Terror": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "forced": [
+            "VBN",
+            "VBD"
+        ]
+    },
+    {
+        "Shooting": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "child": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "Oblivion": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "descendant": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "grappling": [
+            "NN",
+            "VBG"
+        ]
+    },
+    {
+        "both": [
+            "CC",
+            "DT"
+        ]
+    },
+    {
+        "oppressed": [
+            "VBN",
+            "JJ"
+        ]
+    },
+    {
+        "Memorial": [
+            "NNP",
+            "NN"
+        ]
+    }
+]

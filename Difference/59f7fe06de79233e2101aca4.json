@@ -1,0 +1,62 @@
+[
+    {
+        "accustomed": [
+            "VBN",
+            "JJ"
+        ]
+    },
+    {
+        "focus": [
+            "VB",
+            "NN"
+        ]
+    },
+    {
+        "off-camera": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "sister": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "leading": [
+            "JJ",
+            "VBG"
+        ]
+    },
+    {
+        "choreographed": [
+            "VBN",
+            "VBD"
+        ]
+    },
+    {
+        "signalling": [
+            "VBG",
+            "NN"
+        ]
+    },
+    {
+        "factory": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "firm": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "Make": [
+            "VBP",
+            "VB"
+        ]
+    }
+]

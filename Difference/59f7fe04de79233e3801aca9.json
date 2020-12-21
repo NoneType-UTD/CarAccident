@@ -1,0 +1,56 @@
+[
+    {
+        "Islamic": [
+            "NNP",
+            "JJ"
+        ]
+    },
+    {
+        "peacekeeping": [
+            "VBG",
+            "JJ"
+        ]
+    },
+    {
+        "Newsletter": [
+            "NN",
+            "NNP"
+        ]
+    },
+    {
+        "Up": [
+            "NNP",
+            "IN"
+        ]
+    },
+    {
+        "one": [
+            "NN",
+            "CD"
+        ]
+    },
+    {
+        "Foreign": [
+            "JJ",
+            "NNP"
+        ]
+    },
+    {
+        "delighted": [
+            "VBN",
+            "JJ"
+        ]
+    },
+    {
+        "very": [
+            "RB",
+            "JJ"
+        ]
+    },
+    {
+        "nature": [
+            "RB",
+            "NN"
+        ]
+    }
+]

@@ -1,0 +1,170 @@
+[
+    {
+        "Need": [
+            "NN",
+            "VBN"
+        ]
+    },
+    {
+        "Efforts": [
+            "NNP",
+            "NNS"
+        ]
+    },
+    {
+        "No": [
+            "DT",
+            "NNP"
+        ]
+    },
+    {
+        "More": [
+            "JJR",
+            "RBR"
+        ]
+    },
+    {
+        "IPS": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "Peace": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "Prosperity": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "mid-December": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "imagined": [
+            "VBD",
+            "VBN"
+        ]
+    },
+    {
+        "boiling": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "established": [
+            "VBD",
+            "VBN"
+        ]
+    },
+    {
+        "inflamed": [
+            "VBD",
+            "JJ"
+        ]
+    },
+    {
+        "Security": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "Human": [
+            "NNP",
+            "JJ"
+        ]
+    },
+    {
+        "Rights": [
+            "NNP",
+            "NNS"
+        ]
+    },
+    {
+        "Policy": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "advanced": [
+            "VB",
+            "JJ"
+        ]
+    },
+    {
+        "resounding": [
+            "VBG",
+            "JJ"
+        ]
+    },
+    {
+        "hopeless": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "arises": [
+            "NNS",
+            "VBZ"
+        ]
+    },
+    {
+        "AU": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "determine": [
+            "NN",
+            "VB"
+        ]
+    },
+    {
+        "AU": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "envisioned": [
+            "VBD",
+            "VBN"
+        ]
+    },
+    {
+        "Peace": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "Agreement": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "ICC": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "referral": [
+            "JJ",
+            "NN"
+        ]
+    }
+]

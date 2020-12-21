@@ -1,0 +1,80 @@
+[
+    {
+        "Kurdish": [
+            "NNP",
+            "JJ"
+        ]
+    },
+    {
+        "Iraqi": [
+            "NNP",
+            "JJ"
+        ]
+    },
+    {
+        "Iraqi": [
+            "NNP",
+            "JJ"
+        ]
+    },
+    {
+        "al-Abadi": [
+            "NN",
+            "NNP"
+        ]
+    },
+    {
+        "both": [
+            "DT",
+            "CC"
+        ]
+    },
+    {
+        "Kurdish": [
+            "NNP",
+            "JJ"
+        ]
+    },
+    {
+        "Kurds": [
+            "NNP",
+            "NNPS"
+        ]
+    },
+    {
+        "Reuters": [
+            "NNPS",
+            "NNP"
+        ]
+    },
+    {
+        "Kurdish": [
+            "NNP",
+            "JJ"
+        ]
+    },
+    {
+        "coming": [
+            "JJ",
+            "VBG"
+        ]
+    },
+    {
+        "ISNA.Tehran": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "crossing": [
+            "NN",
+            "VBG"
+        ]
+    },
+    {
+        "Kurdistan": [
+            "NNP",
+            "NN"
+        ]
+    }
+]

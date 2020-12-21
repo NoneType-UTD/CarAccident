@@ -1,0 +1,170 @@
+[
+    {
+        "classify": [
+            "NN",
+            "VB"
+        ]
+    },
+    {
+        "want": [
+            "VBP",
+            "VB"
+        ]
+    },
+    {
+        "nameless": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "faceless": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "American": [
+            "NNP",
+            "JJ"
+        ]
+    },
+    {
+        "Taliban": [
+            "JJ",
+            "NNP"
+        ]
+    },
+    {
+        "had": [
+            "VBD",
+            "VBN"
+        ]
+    },
+    {
+        "classified": [
+            "VBN",
+            "JJ"
+        ]
+    },
+    {
+        "data": [
+            "NN",
+            "NNS"
+        ]
+    },
+    {
+        "public": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "kept": [
+            "JJ",
+            "VBN"
+        ]
+    },
+    {
+        "ramps": [
+            "VBZ",
+            "NNS"
+        ]
+    },
+    {
+        "up": [
+            "RP",
+            "IN"
+        ]
+    },
+    {
+        "answered": [
+            "VBD",
+            "VBN"
+        ]
+    },
+    {
+        "past": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "redacted": [
+            "VBN",
+            "JJ"
+        ]
+    },
+    {
+        "military": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "Newsletter": [
+            "NN",
+            "NNP"
+        ]
+    },
+    {
+        "Up": [
+            "NNP",
+            "IN"
+        ]
+    },
+    {
+        "Get": [
+            "NNP",
+            "VB"
+        ]
+    },
+    {
+        "Morning": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "Briefing": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "wounded": [
+            "VBD",
+            "VBN"
+        ]
+    },
+    {
+        "Advertisement": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "Continue": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "wounded": [
+            "VBD",
+            "VBN"
+        ]
+    },
+    {
+        "military": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "slippery": [
+            "NN",
+            "JJ"
+        ]
+    }
+]

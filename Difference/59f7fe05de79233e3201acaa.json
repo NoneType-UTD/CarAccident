@@ -1,0 +1,38 @@
+[
+    {
+        "CHENNAI": [
+            "NN",
+            "NNP"
+        ]
+    },
+    {
+        "institutes": [
+            "NNS",
+            "NN"
+        ]
+    },
+    {
+        "Ramanathapuram": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "Traffic": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "GST": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "witnessed": [
+            "VBD",
+            "VBN"
+        ]
+    }
+]
