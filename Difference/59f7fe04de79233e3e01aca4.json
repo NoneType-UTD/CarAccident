@@ -1,0 +1,770 @@
+[
+    {
+        "\ubcc0\uc18d\uae30": [
+            "NNP",
+            "CD"
+        ]
+    },
+    {
+        "\uc804\ubb38\uae30\uc5c5": [
+            "NNP",
+            "CD"
+        ]
+    },
+    {
+        "\uc5e0\ube44\uc544\uc774\uac00": [
+            "NNP",
+            "CD"
+        ]
+    },
+    {
+        "\ubca0\ud2b8\ub0a8": [
+            "NNP",
+            "CD"
+        ]
+    },
+    {
+        "\ud568\uaed8": [
+            "NNP",
+            "CD"
+        ]
+    },
+    {
+        "\ud558\ub178\uc774\uc5d0": [
+            "NNP",
+            "CD"
+        ]
+    },
+    {
+        "\uc804\uae30\ucc28": [
+            "NNP",
+            "CD"
+        ]
+    },
+    {
+        "\uacf5\uc7a5\uc744": [
+            "NNP",
+            "CD"
+        ]
+    },
+    {
+        "\uc9d3\ub294\ub2e4": [
+            "NNP",
+            "CD"
+        ]
+    },
+    {
+        "\ub450": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "\ud68c\uc0ac\ub294": [
+            "NNP",
+            "CD"
+        ]
+    },
+    {
+        "\uc774\ub97c": [
+            "NNP",
+            "CD"
+        ]
+    },
+    {
+        "\uc704\ud574": [
+            "VBD",
+            "CD"
+        ]
+    },
+    {
+        "\ub97c": [
+            "NN",
+            "CD"
+        ]
+    },
+    {
+        "\uc5e0\ube44\uc544\uc774\ub294": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "\uc720\ubb38\uc218": [
+            "NNP",
+            "CD"
+        ]
+    },
+    {
+        "\ud68c\uc7a5\uacfc": [
+            "NNP",
+            "CD"
+        ]
+    },
+    {
+        "\uc751\uc6b0\uc60c\ud6c4\uc559": [
+            "NNP",
+            "CD"
+        ]
+    },
+    {
+        "\ud68c\uc7a5\uc774": [
+            "NNP",
+            "CD"
+        ]
+    },
+    {
+        "\ub2e4\uc74c\ub2ec": [
+            "NNP",
+            "CD"
+        ]
+    },
+    {
+        "\ub0a8\ud558\ub178\uc774": [
+            "NNP",
+            "CD"
+        ]
+    },
+    {
+        "\uc9c0\uc6d0\uc0b0\uc5c5\ub2e8\uc9c0\uc5d0": [
+            "NNP",
+            "CD"
+        ]
+    },
+    {
+        "\uc804\uae30\ucc28": [
+            "NNP",
+            "CD"
+        ]
+    },
+    {
+        "\ub4f1\uc744": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "\uc0dd\uc0b0\ud558\ub294": [
+            "NNP",
+            "CD"
+        ]
+    },
+    {
+        "\ube44\ucf54\ubaa8\ud130\uc2a4\ub97c": [
+            "NNP",
+            "CD"
+        ]
+    },
+    {
+        "\uc124\ub9bd\ud558\uae30\ub85c": [
+            "NNP",
+            "CD"
+        ]
+    },
+    {
+        "\uacc4\uc57d\uc744": [
+            "NNP",
+            "CD"
+        ]
+    },
+    {
+        "\ub9fa\uc5c8\ub2e4\uace0": [
+            "VBD",
+            "CD"
+        ]
+    },
+    {
+        "\ubc1d\ud614\ub2e4": [
+            "NN",
+            "CD"
+        ]
+    },
+    {
+        "\uc5e0\ube44\uc544\uc774\ub294": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "\ubca0\ud2b8\ub0a8": [
+            "NNP",
+            "CD"
+        ]
+    },
+    {
+        "\uc815\ubd80\uc640": [
+            "NNP",
+            "CD"
+        ]
+    },
+    {
+        "\ud558\ub178\uc774\uc2dc\ub85c\ubd80\ud130": [
+            "VBD",
+            "CD"
+        ]
+    },
+    {
+        "\ud1a0\uc9c0": [
+            "NNP",
+            "CD"
+        ]
+    },
+    {
+        "\uc774\uc6a9\ub8cc": [
+            "NNP",
+            "CD"
+        ]
+    },
+    {
+        "\uba74\uc81c": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "\ucca8\ub2e8\uae30\uc220": [
+            "NNP",
+            "CD"
+        ]
+    },
+    {
+        "\ud22c\uc790": [
+            "NNP",
+            "CD"
+        ]
+    },
+    {
+        "\uc778\uc13c\ud2f0\ube0c": [
+            "NNP",
+            "CD"
+        ]
+    },
+    {
+        "\uc218\ucd9c\uc785": [
+            "NNP",
+            "CD"
+        ]
+    },
+    {
+        "\uad00\uc138": [
+            "NNP",
+            "CD"
+        ]
+    },
+    {
+        "\uc6b0\ub300": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "\uc5e0\ube44\uc544\uc774\uac00": [
+            "NNP",
+            "CD"
+        ]
+    },
+    {
+        "\ubcf4\uc720\ud55c": [
+            "NNP",
+            "CD"
+        ]
+    },
+    {
+        "\ud2b9\ud5c8\uae30\uc220\uc758": [
+            "NNP",
+            "CD"
+        ]
+    },
+    {
+        "\ud45c\uc900\uaddc\uaca9": [
+            "NNP",
+            "CD"
+        ]
+    },
+    {
+        "\uc9c0\uc815": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "\ub4f1\uc758": [
+            "NNP",
+            "CD"
+        ]
+    },
+    {
+        "\uc9c0\uc6d0\uc744": [
+            "NNP",
+            "CD"
+        ]
+    },
+    {
+        "\uc774\ubc88": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "\uacc4\uc57d\uc5d0": [
+            "NNP",
+            "CD"
+        ]
+    },
+    {
+        "\ub530\ub77c": [
+            "NNP",
+            "CD"
+        ]
+    },
+    {
+        "\uc5e0\ube44\uc544\uc774\uc640": [
+            "NNP",
+            "CD"
+        ]
+    },
+    {
+        "\ucd1d\ud22c\uc790\ube44": [
+            "VBZ",
+            "CD"
+        ]
+    },
+    {
+        "\uc911": [
+            "JJ",
+            "CD"
+        ]
+    },
+    {
+        "\uc778": [
+            "JJ",
+            "CD"
+        ]
+    },
+    {
+        "\ube44\ucf54\ubaa8\ud130\uc2a4\uc5d0": [
+            "JJ",
+            "CD"
+        ]
+    },
+    {
+        "\ub0a9\uc785\ud55c\ub2e4": [
+            "NN",
+            "CD"
+        ]
+    },
+    {
+        "\uacf5\uc7a5\uc740": [
+            "JJ",
+            "CD"
+        ]
+    },
+    {
+        "\ucc29\uacf5\ud574": [
+            "NNP",
+            "CD"
+        ]
+    },
+    {
+        "\uc0c1\ubc18\uae30\ubd80\ud130": [
+            "NNP",
+            "CD"
+        ]
+    },
+    {
+        "\uac00\ub3d9\uc5d0": [
+            "NNP",
+            "CD"
+        ]
+    },
+    {
+        "\uc5e0\ube44\uc544\uc774\ub294": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "\uc804\uae30\ucc28\uc640": [
+            "NNP",
+            "CD"
+        ]
+    },
+    {
+        "\ubcc0\uc18d\uae30": [
+            "NNP",
+            "CD"
+        ]
+    },
+    {
+        "\ub4f1": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "\uae30\uc220\uc744": [
+            "NNP",
+            "CD"
+        ]
+    },
+    {
+        "\ube44\ucf54\ubaa8\ud130\uc2a4\uc5d0": [
+            "NNP",
+            "CD"
+        ]
+    },
+    {
+        "\uc774\uc804\ud558\uba70": [
+            "NNP",
+            "CD"
+        ]
+    },
+    {
+        "\uadf8": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "\ub300\uac00\ub85c": [
+            "NNP",
+            "CD"
+        ]
+    },
+    {
+        "\uae30\uc220\ud3c9\uac00": [
+            "NNP",
+            "CD"
+        ]
+    },
+    {
+        "\uae08\uc561\uc744": [
+            "NNP",
+            "CD"
+        ]
+    },
+    {
+        "\ud2b9\ud5c8\uae30\uc220\ub8cc\ub85c": [
+            "NNP",
+            "CD"
+        ]
+    },
+    {
+        "\ube44\ucf54\ubaa8\ud130\uc2a4\ub294": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "\uc804\uae30\ucc28": [
+            "NNP",
+            "CD"
+        ]
+    },
+    {
+        "\uc138\ub2e8": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "\uacfc": [
+            "NN",
+            "CD"
+        ]
+    },
+    {
+        "\uc2a4\ud3ec\uce20\uc720\ud2f8\ub9ac\ud2f0\ucc28\ub7c9": [
+            "NNP",
+            "CD"
+        ]
+    },
+    {
+        "SUV": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "\ubcc0\uc18d\uae30": [
+            "JJ",
+            "CD"
+        ]
+    },
+    {
+        "\ub4f1\uc744": [
+            "NNP",
+            "CD"
+        ]
+    },
+    {
+        "\uc0dd\uc0b0\ud574": [
+            "NNP",
+            "CD"
+        ]
+    },
+    {
+        "\uc774\ub974\uba74": [
+            "NNP",
+            "CD"
+        ]
+    },
+    {
+        "\ub0b4\ub144": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "\uc0c1\ubc18\uae30\ubd80\ud130": [
+            "NNP",
+            "CD"
+        ]
+    },
+    {
+        "\ubca0\ud2b8\ub0a8\uc744": [
+            "NNP",
+            "CD"
+        ]
+    },
+    {
+        "\ube44\ub86f\ud55c": [
+            "NNP",
+            "CD"
+        ]
+    },
+    {
+        "\ub3d9\ub0a8\uc544\uc2dc\uc544": [
+            "NNP",
+            "CD"
+        ]
+    },
+    {
+        "\ud55c\uad6d": [
+            "NNP",
+            "CD"
+        ]
+    },
+    {
+        "\uc2dc\uc7a5\uc5d0": [
+            "NNP",
+            "CD"
+        ]
+    },
+    {
+        "\ud310\ub9e4\ud560": [
+            "NNP",
+            "CD"
+        ]
+    },
+    {
+        "\uacc4\ud68d\uc774\ub2e4": [
+            "NNP",
+            "CD"
+        ]
+    },
+    {
+        "\uc720": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "\ud68c\uc7a5\uc740": [
+            "NNP",
+            "CD"
+        ]
+    },
+    {
+        "\ubca0\ud2b8\ub0a8": [
+            "NNP",
+            "FW"
+        ]
+    },
+    {
+        "\uc790\ub3d9\ucc28": [
+            "NNP",
+            "FW"
+        ]
+    },
+    {
+        "\uc2dc\uc7a5\uc740": [
+            "VBD",
+            "FW"
+        ]
+    },
+    {
+        "\ub300\uc5d0\uc11c": [
+            "NN",
+            "CD"
+        ]
+    },
+    {
+        "\ub298\uc5b4\ub09c": [
+            "NNP",
+            "CD"
+        ]
+    },
+    {
+        "\ube14\ub8e8\uc624\uc158": [
+            "NNP",
+            "CD"
+        ]
+    },
+    {
+        "\uc774\ub77c\uba70": [
+            "NNP",
+            "CD"
+        ]
+    },
+    {
+        "\uc778\uad6c": [
+            "VBD",
+            "FW"
+        ]
+    },
+    {
+        "1\uc5b5": [
+            "CD",
+            "FW"
+        ]
+    },
+    {
+        "\uba85\uc758": [
+            "NNP",
+            "FW"
+        ]
+    },
+    {
+        "\ubca0\ud2b8\ub0a8\uc5d0\uc11c": [
+            "NNP",
+            "FW"
+        ]
+    },
+    {
+        "\uc804\uae30\ucc28": [
+            "NNP",
+            "FW"
+        ]
+    },
+    {
+        "\ub300\uc911\ud654\ub97c": [
+            "NNP",
+            "FW"
+        ]
+    },
+    {
+        "\uc8fc\ub3c4\ud560": [
+            "NNP",
+            "FW"
+        ]
+    },
+    {
+        "\uac83": [
+            "NNP",
+            "FW"
+        ]
+    },
+    {
+        "\uc774\ub77c\uace0": [
+            "NNP",
+            "CD"
+        ]
+    },
+    {
+        "\ub9d0\ud588\ub2e4": [
+            "NNP",
+            "CD"
+        ]
+    },
+    {
+        "\uc5e0\ube44\uc544\uc774\ub294": [
+            "RB",
+            "NN"
+        ]
+    },
+    {
+        "\ub144\uac04": [
+            "JJ",
+            "CD"
+        ]
+    },
+    {
+        "\ubcc0\uc18d\uae30": [
+            "NNP",
+            "CD"
+        ]
+    },
+    {
+        "\uad00\ub828": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "\uae30\uc220\uc744": [
+            "NNP",
+            "CD"
+        ]
+    },
+    {
+        "\ubca0\ud2b8\ub0a8\uc5d0\uc11c": [
+            "NNP",
+            "CD"
+        ]
+    },
+    {
+        "\uac74\uc124": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "\uc720\ud1b5": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "\uc790\ub3d9\ucc28": [
+            "NNP",
+            "CD"
+        ]
+    },
+    {
+        "\ub4f1\uc758": [
+            "NNP",
+            "CD"
+        ]
+    },
+    {
+        "\uc0ac\uc5c5\uc744": [
+            "NNP",
+            "CD"
+        ]
+    },
+    {
+        "\ud558\uace0": [
+            "NNP",
+            "CD"
+        ]
+    },
+    {
+        "\uc788\ub2e4": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "\uac15\ud604\uc6b0": [
+            "JJ",
+            "CD"
+        ]
+    },
+    {
+        "\uae30\uc790": [
+            "NNP",
+            "CD"
+        ]
+    }
+]

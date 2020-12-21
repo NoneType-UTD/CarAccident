@@ -1,0 +1,62 @@
+[
+    {
+        "past": [
+            "VB",
+            "JJ"
+        ]
+    },
+    {
+        "both": [
+            "DT",
+            "CC"
+        ]
+    },
+    {
+        "imprisoning": [
+            "NN",
+            "VBG"
+        ]
+    },
+    {
+        "said": [
+            "VBD",
+            "VBN"
+        ]
+    },
+    {
+        "lifestyle": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "Gates": [
+            "NNS",
+            "NNP"
+        ]
+    },
+    {
+        "US": [
+            "JJ",
+            "NNP"
+        ]
+    },
+    {
+        "WATCH": [
+            "NN",
+            "VB"
+        ]
+    },
+    {
+        "down": [
+            "RB",
+            "RP"
+        ]
+    },
+    {
+        "pic.twitter.com/79bp7IIxO0": [
+            "VBP",
+            "NN"
+        ]
+    }
+]

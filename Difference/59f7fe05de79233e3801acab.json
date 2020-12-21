@@ -1,0 +1,44 @@
+[
+    {
+        "posing": [
+            "NN",
+            "VBG"
+        ]
+    },
+    {
+        "crossing": [
+            "NN",
+            "VBG"
+        ]
+    },
+    {
+        "Newsletter": [
+            "NN",
+            "NNP"
+        ]
+    },
+    {
+        "Up": [
+            "NNP",
+            "IN"
+        ]
+    },
+    {
+        "about": [
+            "RB",
+            "IN"
+        ]
+    },
+    {
+        "driving": [
+            "NN",
+            "VBG"
+        ]
+    },
+    {
+        "much": [
+            "JJ",
+            "RB"
+        ]
+    }
+]

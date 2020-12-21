@@ -1,0 +1,62 @@
+[
+    {
+        "Black": [
+            "NNP",
+            "JJ"
+        ]
+    },
+    {
+        "hung": [
+            "VBP",
+            "VBD"
+        ]
+    },
+    {
+        "webs": [
+            "JJ",
+            "NNS"
+        ]
+    },
+    {
+        "Trump": [
+            "NN",
+            "NNP"
+        ]
+    },
+    {
+        "crisp": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "individual": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "dressed": [
+            "VBD",
+            "VBN"
+        ]
+    },
+    {
+        "Veterans": [
+            "VBZ",
+            "NNP"
+        ]
+    },
+    {
+        "Lawn": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "Obamas": [
+            "NNP",
+            "NNPS"
+        ]
+    }
+]

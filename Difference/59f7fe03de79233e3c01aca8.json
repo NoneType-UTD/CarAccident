@@ -1,0 +1,110 @@
+[
+    {
+        "CITY": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "PULSE": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "Internationally": [
+            "NNP",
+            "RB"
+        ]
+    },
+    {
+        "acclaimed": [
+            "VBD",
+            "JJ"
+        ]
+    },
+    {
+        "artist": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "Color": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "motifs": [
+            "NN",
+            "NNS"
+        ]
+    },
+    {
+        "Alumnus": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "Arts": [
+            "NNP",
+            "NNS"
+        ]
+    },
+    {
+        "Masters": [
+            "NNS",
+            "NN"
+        ]
+    },
+    {
+        "Call": [
+            "NNP",
+            "VB"
+        ]
+    },
+    {
+        "art": [
+            "RP",
+            "NN"
+        ]
+    },
+    {
+        "solo": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "play": [
+            "NN",
+            "VB"
+        ]
+    },
+    {
+        "Arts": [
+            "NNP",
+            "NNS"
+        ]
+    },
+    {
+        "Olomopolo": [
+            "NNP",
+            "JJ"
+        ]
+    },
+    {
+        "Tangibility": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "solo": [
+            "JJ",
+            "NN"
+        ]
+    }
+]

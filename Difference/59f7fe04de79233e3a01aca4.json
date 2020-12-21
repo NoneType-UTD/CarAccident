@@ -1,0 +1,74 @@
+[
+    {
+        "All": [
+            "PDT",
+            "DT"
+        ]
+    },
+    {
+        "that": [
+            "DT",
+            "WDT"
+        ]
+    },
+    {
+        "MP": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "Advertisement": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "Replacing": [
+            "NNP",
+            "VBG"
+        ]
+    },
+    {
+        "Commission": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "botched": [
+            "VBN",
+            "JJ"
+        ]
+    },
+    {
+        "Earthquake": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "EQC": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "that": [
+            "DT",
+            "IN"
+        ]
+    },
+    {
+        "needs": [
+            "NNS",
+            "VBZ"
+        ]
+    },
+    {
+        "Labour": [
+            "NNP",
+            "NN"
+        ]
+    }
+]

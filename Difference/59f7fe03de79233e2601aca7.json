@@ -1,0 +1,140 @@
+[
+    {
+        "request": [
+            "JJS",
+            "NN"
+        ]
+    },
+    {
+        "Brexit": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "Labour": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "being": [
+            "VBG",
+            "NN"
+        ]
+    },
+    {
+        "commissioning": [
+            "NN",
+            "VBG"
+        ]
+    },
+    {
+        "Disclosure": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "lead": [
+            "NN",
+            "VBP"
+        ]
+    },
+    {
+        "more": [
+            "JJR",
+            "RBR"
+        ]
+    },
+    {
+        "dark": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "prepares": [
+            "NNS",
+            "VBZ"
+        ]
+    },
+    {
+        "break": [
+            "VBP",
+            "VB"
+        ]
+    },
+    {
+        "scheduled": [
+            "JJ",
+            "VBN"
+        ]
+    },
+    {
+        "chief": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "remain": [
+            "NN",
+            "VBP"
+        ]
+    },
+    {
+        "veteran": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "walks": [
+            "NNS",
+            "VBZ"
+        ]
+    },
+    {
+        "concerns": [
+            "VB",
+            "NNS"
+        ]
+    },
+    {
+        "All": [
+            "PDT",
+            "DT"
+        ]
+    },
+    {
+        "Rescue": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "embarrassed": [
+            "VBN",
+            "JJ"
+        ]
+    },
+    {
+        "called": [
+            "VBD",
+            "VBN"
+        ]
+    },
+    {
+        "Labour": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "Brits": [
+            "NNP",
+            "NNS"
+        ]
+    }
+]

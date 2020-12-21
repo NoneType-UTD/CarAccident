@@ -1,0 +1,398 @@
+[
+    {
+        "Bring": [
+            "NNP",
+            "VB"
+        ]
+    },
+    {
+        "Unspeakable": [
+            "JJ",
+            "NNP"
+        ]
+    },
+    {
+        "BAZAR": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "IPS": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "Yasmin": [
+            "NN",
+            "NNP"
+        ]
+    },
+    {
+        "heard": [
+            "NN",
+            "VBN"
+        ]
+    },
+    {
+        "such": [
+            "JJ",
+            "PDT"
+        ]
+    },
+    {
+        "evening": [
+            "VBG",
+            "NN"
+        ]
+    },
+    {
+        "army": [
+            "JJ",
+            "NN"
+        ]
+    },
+    {
+        "in": [
+            "IN",
+            "RP"
+        ]
+    },
+    {
+        "raiding": [
+            "VBG",
+            "NN"
+        ]
+    },
+    {
+        "exhausted": [
+            "VBD",
+            "VBN"
+        ]
+    },
+    {
+        "mobs": [
+            "NN",
+            "NNS"
+        ]
+    },
+    {
+        "Muslim": [
+            "NNP",
+            "JJ"
+        ]
+    },
+    {
+        "Rakhine": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "hilly": [
+            "RB",
+            "JJ"
+        ]
+    },
+    {
+        "both": [
+            "DT",
+            "CC"
+        ]
+    },
+    {
+        "km": [
+            "NNS",
+            "NN"
+        ]
+    },
+    {
+        "Rohingyas": [
+            "NNP",
+            "NNPS"
+        ]
+    },
+    {
+        "Nations": [
+            "NNP",
+            "NNPS"
+        ]
+    },
+    {
+        "innocent": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "Rohingya": [
+            "NNP",
+            "JJ"
+        ]
+    },
+    {
+        "Rakhine": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "mid-September": [
+            "NN",
+            "NNP"
+        ]
+    },
+    {
+        "out": [
+            "RP",
+            "IN"
+        ]
+    },
+    {
+        "frightening": [
+            "VBG",
+            "JJ"
+        ]
+    },
+    {
+        "apply": [
+            "RB",
+            "VB"
+        ]
+    },
+    {
+        "either": [
+            "DT",
+            "CC"
+        ]
+    },
+    {
+        "heard": [
+            "NN",
+            "VBN"
+        ]
+    },
+    {
+        "such": [
+            "JJ",
+            "PDT"
+        ]
+    },
+    {
+        "Cox": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "keep": [
+            "VB",
+            "VBP"
+        ]
+    },
+    {
+        "pouring": [
+            "NN",
+            "VBG"
+        ]
+    },
+    {
+        "occur": [
+            "NN",
+            "VBP"
+        ]
+    },
+    {
+        "safer": [
+            "RB",
+            "JJR"
+        ]
+    },
+    {
+        "so": [
+            "RB",
+            "IN"
+        ]
+    },
+    {
+        "Cox": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "wounded": [
+            "NNS",
+            "VBN"
+        ]
+    },
+    {
+        "complain": [
+            "NN",
+            "VBP"
+        ]
+    },
+    {
+        "attending": [
+            "JJ",
+            "VBG"
+        ]
+    },
+    {
+        "amazing": [
+            "VBG",
+            "JJ"
+        ]
+    },
+    {
+        "suffering": [
+            "VBG",
+            "NN"
+        ]
+    },
+    {
+        "complain": [
+            "NN",
+            "VB"
+        ]
+    },
+    {
+        "torture": [
+            "NN",
+            "VB"
+        ]
+    },
+    {
+        "shot": [
+            "VB",
+            "VBD"
+        ]
+    },
+    {
+        "traumatised": [
+            "JJ",
+            "VBN"
+        ]
+    },
+    {
+        "terrifying": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "cleansing": [
+            "NN",
+            "VBG"
+        ]
+    },
+    {
+        "sheer": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "Rakhain": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "Women": [
+            "NNP",
+            "NNS"
+        ]
+    },
+    {
+        "both": [
+            "DT",
+            "CC"
+        ]
+    },
+    {
+        "torture": [
+            "NN",
+            "VB"
+        ]
+    },
+    {
+        "undergone": [
+            "NN",
+            "VBN"
+        ]
+    },
+    {
+        "Round": [
+            "IN",
+            "NNP"
+        ]
+    },
+    {
+        "Rohingya": [
+            "NNPS",
+            "NNP"
+        ]
+    },
+    {
+        "Buddhist-majority": [
+            "NNP",
+            "JJ"
+        ]
+    },
+    {
+        "that": [
+            "IN",
+            "WDT"
+        ]
+    },
+    {
+        "borders": [
+            "NNS",
+            "VBZ"
+        ]
+    },
+    {
+        "Naf": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "Swing": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "Refugees": [
+            "NNP",
+            "NNPS"
+        ]
+    },
+    {
+        "Parents": [
+            "NNP",
+            "NNS"
+        ]
+    },
+    {
+        "killed": [
+            "VBD",
+            "VBN"
+        ]
+    },
+    {
+        "divided": [
+            "VBD",
+            "VBN"
+        ]
+    },
+    {
+        "perpetrated": [
+            "VBD",
+            "VBN"
+        ]
+    }
+]

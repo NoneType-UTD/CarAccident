@@ -1,0 +1,26 @@
+[
+    {
+        "walks": [
+            "NNS",
+            "VBZ"
+        ]
+    },
+    {
+        "participated": [
+            "VBN",
+            "VBD"
+        ]
+    },
+    {
+        "rewritten": [
+            "VB",
+            "VBN"
+        ]
+    },
+    {
+        "express": [
+            "NN",
+            "VBP"
+        ]
+    }
+]

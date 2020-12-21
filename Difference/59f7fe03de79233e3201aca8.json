@@ -1,0 +1,38 @@
+[
+    {
+        "Calling": [
+            "NN",
+            "VBG"
+        ]
+    },
+    {
+        "walks": [
+            "NNS",
+            "VBZ"
+        ]
+    },
+    {
+        "cumbersome": [
+            "NN",
+            "JJ"
+        ]
+    },
+    {
+        "understood": [
+            "JJ",
+            "VBN"
+        ]
+    },
+    {
+        "transform": [
+            "NN",
+            "VB"
+        ]
+    },
+    {
+        "anniversary": [
+            "JJ",
+            "NN"
+        ]
+    }
+]

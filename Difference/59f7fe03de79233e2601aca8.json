@@ -1,0 +1,140 @@
+[
+    {
+        "Public": [
+            "JJ",
+            "NNP"
+        ]
+    },
+    {
+        "Read": [
+            "NNP",
+            "VB"
+        ]
+    },
+    {
+        "more": [
+            "RBR",
+            "JJR"
+        ]
+    },
+    {
+        "down": [
+            "RP",
+            "RB"
+        ]
+    },
+    {
+        "simpler": [
+            "JJ",
+            "JJR"
+        ]
+    },
+    {
+        "up": [
+            "RB",
+            "RP"
+        ]
+    },
+    {
+        "both": [
+            "DT",
+            "CC"
+        ]
+    },
+    {
+        "address": [
+            "IN",
+            "VBP"
+        ]
+    },
+    {
+        "proclaimed": [
+            "VBN",
+            "VBD"
+        ]
+    },
+    {
+        "Conservative": [
+            "NNP",
+            "JJ"
+        ]
+    },
+    {
+        "that": [
+            "IN",
+            "WDT"
+        ]
+    },
+    {
+        "Letters": [
+            "NNP",
+            "NNS"
+        ]
+    },
+    {
+        "Read": [
+            "NNP",
+            "VBP"
+        ]
+    },
+    {
+        "1m": [
+            "CD",
+            "NN"
+        ]
+    },
+    {
+        "off": [
+            "IN",
+            "RP"
+        ]
+    },
+    {
+        "Resolution": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "emerge": [
+            "NN",
+            "VBP"
+        ]
+    },
+    {
+        "Read": [
+            "NNP",
+            "VB"
+        ]
+    },
+    {
+        "off": [
+            "IN",
+            "RP"
+        ]
+    },
+    {
+        "simpler": [
+            "NN",
+            "JJR"
+        ]
+    },
+    {
+        "strained": [
+            "VBN",
+            "JJ"
+        ]
+    },
+    {
+        "DWP": [
+            "NNP",
+            "NN"
+        ]
+    },
+    {
+        "benefit": [
+            "JJ",
+            "NN"
+        ]
+    }
+]
