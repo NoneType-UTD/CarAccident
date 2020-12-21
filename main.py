@@ -109,4 +109,3 @@ if __name__ == '__main__':
             tr4w.analyze(rawSentence['sentence'], candidate_pos=['NOUN', 'PROPN'], window_size=4, lower=False)
             test = [{k: v} for k, v in dict(tr4w.get_keywords(10)).items()]
             SaveToFile(fileName, test)
-
