@@ -1,13 +1,19 @@
-import en_core_web_sm
-import requests
-import json
-from jsondiff import diff
-import string
-import KeyWordExtraction
 import nltk
+import json
+import Graph
+import string
+import requests
+import en_core_web_sm
+import KeyWordExtraction
 from pathlib import Path
+from jsondiff import diff
+from pprint import pprint
+from nltk.corpus import stopwords
+from nltk.tokenize import word_tokenize
+from nltk.stem import WordNetLemmatizer
 
 nlp = en_core_web_sm.load()
+lemmatizer = WordNetLemmatizer()
 
 
 def preprocess(sent):
@@ -89,6 +95,18 @@ def SaveToFile(file, data):
             json.dump(data, f1, indent=4)
 
 
+def FilterSentence(sentenceData):
+    stop_words = set(stopwords.words('english'))
+    text = sentenceData['sentence']
+    tokens = word_tokenize(text)
+    tokens = [w.lower() for w in tokens]
+    table = str.maketrans('', '', string.punctuation)
+    stripped = [w.translate(table) for w in tokens]
+    words = [word for word in stripped if word.isalpha()]
+    words = [lemmatizer.lemmatize(w) for w in words if w not in stop_words]
+    return words
+
+
 if __name__ == '__main__':
     tr4w = KeyWordExtraction.TextRank4Keyword()
 
@@ -97,15 +115,28 @@ if __name__ == '__main__':
     for _id in article_ids:
         response = requests.get('http://149.165.156.117/api/article?doc_id=' + _id['_id'])
         articleData = response.json()['data']
+        article_graph = Graph.Graph()
+        articleText = []
 
         for rawSentence in articleData:
+            sentence_graph = Graph.Graph()
             fileName = f"{_id['_id']}.json"
+            filteredWords = FilterSentence(rawSentence)
+            sentence_graph.SetWindowSize(2)
+            sentence_graph.CreateGraph(filteredWords)
+            print(filteredWords)
+            pprint(sentence_graph.GetGraph())
+
             '''
             Uncomment to find the differences of the standford corenlp and NLTK package on the sentences
             nlpDiff = CompareSentences(rawSentence)
             SaveToFile(fileName, nlpDiff)
             '''
-
+            '''
+            Uncomment to find the keywords in the sentence
             tr4w.analyze(rawSentence['sentence'], candidate_pos=['NOUN', 'PROPN'], window_size=4, lower=False)
             test = [{k: v} for k, v in dict(tr4w.get_keywords(10)).items()]
             SaveToFile(fileName, test)
+            '''
+            break
+        break
