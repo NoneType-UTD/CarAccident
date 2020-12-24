@@ -115,18 +115,19 @@ if __name__ == '__main__':
     for _id in article_ids:
         response = requests.get('http://149.165.156.117/api/article?doc_id=' + _id['_id'])
         articleData = response.json()['data']
-        article_graph = Graph.Graph()
+        article_graph = Graph.Graph(2)
         articleText = []
 
         for rawSentence in articleData:
-            sentence_graph = Graph.Graph()
             fileName = f"{_id['_id']}.json"
-            filteredWords = FilterSentence(rawSentence)
-            sentence_graph.SetWindowSize(2)
-            sentence_graph.CreateGraph(filteredWords)
-            print(filteredWords)
-            pprint(sentence_graph.GetGraph())
 
+            sentence_graph = Graph.Graph(2)
+            filteredWords = FilterSentence(rawSentence)
+
+            sentence_graph.CreateGraph(filteredWords)
+            article_graph.MergeGraphs(sentence_graph)
+            # print(filteredWords)
+            # pprint(sentence_graph.GetGraph())
             '''
             Uncomment to find the differences of the standford corenlp and NLTK package on the sentences
             nlpDiff = CompareSentences(rawSentence)
@@ -138,5 +139,5 @@ if __name__ == '__main__':
             test = [{k: v} for k, v in dict(tr4w.get_keywords(10)).items()]
             SaveToFile(fileName, test)
             '''
-            break
+        pprint(article_graph.GetGraph())
         break
